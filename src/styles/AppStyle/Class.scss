@@ -6,16 +6,19 @@
     display: inline;
   }
   .Tap{
-    .Page{        padding: 15vh 5.3vh;}
+    .Page{        padding: 17vh 5.3vw;}
     .BG{min-width: 100vw !important; height: 60vh !important; }
     .Tools{display: none;}
-    .Navbar{justify-content: center;.Link{font-size: 4vh;} }
+    .Navbar{justify-content: center;.Link{font-size: 3.4vw;} }
     .Top{flex-direction: column;align-items: center;  margin-bottom:0 ;}
-    .LeftSec_Top{h1,h2{font-size: 7vh !important; text-align: center; margin: auto 0;}h3{font-size: 5vh !important; text-align: center;}}
+    .LeftSec_Top{h1,h2{font-size: 7vw !important; text-align: center; margin: auto ;}
+    h3{font-size: 5vw !important; text-align: center; } margin-bottom: 4vh;}
     .LeftSec_Mid,.LeftSec_Down{display: none;}
-    .SocialMedia{flex-direction: row;padding: 16vh 20vh; justify-content: space-between;  width: 100vw;
-    .SocialMediaB{flex-direction: column-reverse;}  .Icon{font-size: 2.5vh;} .Ibra{height: 5vh;} }
-    .Home_RightSec{ height: 33vh !important;  ;
+    .SocialMedia{flex-direction: row;padding: 18vh 6vw; 
+      justify-content: space-between;  width: 100vw;
+    .SocialMediaB{flex-direction: column-reverse;}  
+    .Icon{font-size: 2.5vh;} .Ibra{height: 5vh;} }
+    .Home_RightSec{ height: 38vw !important;  ;
     }
 
   }
