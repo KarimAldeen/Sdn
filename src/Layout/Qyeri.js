@@ -31,6 +31,8 @@ const Qyeri = () => {
            
             else{
                 document.body.classList.remove("Tap")
+                document.getElementById("BG").src= BG 
+
             }
 
         }
