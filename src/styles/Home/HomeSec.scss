@@ -1,0 +1,65 @@
+.Home_RightSec{
+     height: 25vw; 
+   z-index: 9999; 
+}
+
+  
+.Home_LeftSec{
+    color: var(--white); 
+    width: max-content;
+
+    .LeftSec_Top{
+        
+      h3{
+        font-weight: bold;       
+         font-size: 2vw ;
+
+
+      }
+        h2{
+              font-weight: bolder; color: var(--black);
+               font-size: 5vw;
+              line-height: 5vh;
+              font-size:  clamp(3vw, 4vw, 15vh);
+
+
+              
+        }
+        h1{
+            font-weight: bold;
+            font-size: 4vw;
+            font-size:  clamp(3vw, 4vw, 7vh);
+
+            width: max-content;
+
+       }
+    }
+    .LeftSec_Mid{
+        margin: 1vw 0;
+        h6{
+            text-transform: lowercase;
+            font-size: 1.2vw;
+            font-size: max(1.2vw, 1.2vh);
+
+            width: 80%;
+            word-spacing: 7px;
+        }
+    }
+    .LeftSec_Down{
+        width: max-content;
+        button{
+            text-align: center;
+            padding: .4vw .2vw;
+             margin: 1vw 0; border: none; width: 10vw; font-weight: bold;
+            border-radius: 5px; color: var(--primary);
+            font-size: 1.2vw;
+        }
+        .BtnOut{
+            background-color: transparent; border: .34vw solid var(--white);
+            padding: .1vw; color: var(--white);
+            margin: 0px 3vw;
+        }
+    }
+
+}
+

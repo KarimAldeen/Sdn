@@ -1,0 +1,28 @@
+.Home_Mid{
+    @include Flex;
+    margin-bottom: 1rem;
+    overflow: hidden; 
+      margin-bottom: min(5vh,3vw);
+flex-wrap: wrap;
+
+    .Mid_Item{
+        font-size: clamp(3vh, 1.9vw, 2.7vw);
+        font-weight: bold;
+        @include FlexC;
+        width: max-content;
+
+    }
+    .Mid_Item_Num{
+        color: var(--primary);
+        font-weight: 950;
+
+    }
+    .Mid_Items{
+        @include Flex;
+        gap: 5vw;
+        margin-top: 0;
+        margin-inline: min(3vw);
+
+    }
+}
+

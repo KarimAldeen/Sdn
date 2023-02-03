@@ -1,0 +1,148 @@
+
+// .shake {
+//     animation: shake 0.3s linear infinite both;
+//     &:hover{
+//         animation: shake 0s ;
+//     }
+//    }
+//    .flay{
+//     animation: fly 0.6s ease-in-out infinite alternate;
+//   }
+   
+//    @keyframes shake {
+//     0% {
+//      -webkit-transform: translate(0);
+//      transform: translate(0);
+//     }
+   
+//     20% {
+//      -webkit-transform: translate(-2px, 2px);
+//      transform: translate(-2px, 2px);
+//     }
+   
+//     40% {
+//      -webkit-transform: translate(-2px, -2px);
+//      transform: translate(-2px, -2px);
+//     }
+   
+//     60% {
+//      -webkit-transform: translate(2px, 2px);
+//      transform: translate(2px, 2px);
+//     }
+   
+//     80% {
+//      -webkit-transform: translate(2px, -2px);
+//      transform: translate(2px, -2px);
+//     }
+   
+//     100% {
+//      -webkit-transform: translate(0);
+//      transform: translate(0);
+//     }
+//    }
+//    @keyframes fly {
+//     from {
+//       transform: translateY(0.1em);
+//     }
+  
+//     to {
+//       transform: translateY(-0.1em);
+//     }
+//   }
+// @keyframes PageAnim{
+//   from {
+//     opacity: 0;
+//     transform: rotateX(-50deg);
+//   }
+//   to{
+//     opacity: 1;
+//     transform: rotateX(0);
+//   } 
+// }
+// @keyframes PageAnimB{
+//   from {
+//     opacity: 0;
+//     transform: rotateX(-50deg);
+//   }
+//   to{
+//     opacity: 1;
+//     transform: rotateX(0);
+//   } 
+// }
+
+// @keyframes PageAnim_Three{
+//   from {
+//     opacity: 0;
+//     width: 100px; height: 100px;
+//   }
+ 
+//   to{
+   
+//     opacity: 1;
+//     width: 100vw; height: 100vh;
+
+
+//   } 
+// }
+// @keyframes Opa{
+//   from {
+//     opacity: 0;
+//   }
+ 
+//   to{
+   
+//     opacity: 1;
+
+
+//   } 
+// }
+// .Opa{
+//   animation:Opa 3s ;
+
+// }
+
+// @keyframes LapHover{
+//   from {
+//     opacity: 0;
+//     transform: translateY(-5vh);
+//     rotate:-35deg ;
+
+//   }
+ 
+//   to{
+   
+//     opacity: 1;
+//     transform: translateY(-5vh);
+//     rotate:0deg ;
+
+
+
+//   } 
+// }
+// @keyframes LapHovers{
+//   0% {
+//     opacity: 0;
+//     transform: translateY(-5vw);
+//     rotate:-15deg ;
+//    }
+  
+//    25% {
+//     transform: translateY(-8vw);
+
+//     rotate:15deg ;
+
+//    }
+ 
+//    75% {
+//     rotate:-15deg ;
+
+//    }
+  
+//    100% {
+//     opacity: 1;
+//     transform: translateY(-3vw);
+//     rotate:0deg ;
+
+//    }
+  
+// }
