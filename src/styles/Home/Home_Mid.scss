@@ -6,7 +6,7 @@
 flex-wrap: wrap;
 
     .Mid_Item{
-        font-size: clamp(3vh, 1.9vw, 2.7vw);
+        font-size: clamp(2vh, 1.9vw, 3vw);
         font-weight: bold;
         @include FlexC;
         width: max-content;
@@ -19,6 +19,7 @@ flex-wrap: wrap;
     }
     .Mid_Items{
         @include Flex;
+
         gap: 5vw;
         margin-top: 0;
         margin-inline: min(3vw);

@@ -18,32 +18,32 @@ function MouseLeave(event){
   return (
     <div className='Down' id='Down'>
       <div className='Down_Items'>
-      <Link className='Down_Item'onMouseEnter={(event) => MouseEnter(event)} onMouseLeave={(event) => MouseLeave(event)}>
+      <Link onMouseEnter={(event) => MouseEnter(event)} onMouseLeave={(event) => MouseLeave(event)}>
       <picture>
         {/* <source media="(min-height: 824px) and (max-width: 924px)" srcSet={H_M} alt='' />
         <source media='(max-width : 800px) and (min-height: 600px)' srcSet={H_M} alt='' /> */}
-        <img className='Down_Item' id='Laptop' src={H_P} alt=''  />
+        <img className='Down_Item' id='Laptop1' src={H_P} alt=''  />
       </picture>       </Link>
     
-      <Link className='Down_Item'>
+      <Link>
       <picture>
         {/* <source media="(min-height: 824px) and (max-width: 924px)" srcSet={H_M} alt='' />
         <source media='(max-width : 800px) and (min-height: 600px)' srcSet={H_M} alt='' /> */}
-        <img className='Down_Item' id='Laptop' src={S_P} alt=''  />
+        <img className='Down_Item' id='Laptop2' src={S_P} alt=''  />
       </picture>    
          </Link>
-      <Link className='Down_Item'>
+      <Link>
       <picture>
         {/* <source media="(min-height: 824px) and (max-width: 924px)" srcSet={H_M} alt='' />
         <source media='(max-width : 800px) and (min-height: 600px)' srcSet={H_M} alt='' /> */}
-        <img className='Down_Item' id='Laptop' src={H_P} alt=''  />
+        <img className='Down_Item' id='Laptop3' src={H_P} alt=''  />
       </picture>    
          </Link>
-      <Link className='Down_Item'>
+      <Link >
       <picture>
         {/* <source media="(min-height: 824px) and (max-width: 924px)" srcSet={H_M} alt='' />
         <source media='(max-width : 800px) and (min-height: 600px)' srcSet={H_M} alt='' /> */}
-        <img className='Down_Item' id='Laptop' src={S_P} alt=''  />
+        <img className='Down_Item' id='Laptop4' src={S_P} alt=''  />
       </picture>    
          </Link>
 
