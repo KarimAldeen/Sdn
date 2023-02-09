@@ -27,7 +27,7 @@ const Qyeri = ({Name}) => {
                 Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
                 if(Name === "Services"){
                 MidImg.src = AllMidImg
-
+                    console.log('ibrahim')
                 }
 
             }
