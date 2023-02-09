@@ -9,6 +9,10 @@ transform: translateY(5vw) translateY(-10vh);
 
 }
 
+.Services_LeftSec,.Services_RightSec{
+    transform: translateY(5vw) translateY(-10vh);
+    
+    }
     
     
  
@@ -19,6 +23,12 @@ transform: translateY(5vw) translateY(-10vh);
 
     } 
     .Home_RightSec{
+        min-height: 20vw;
+        max-height: 45vh;
+        height: 25vw; 
+
+    }
+    .Services_RightSec{
         min-height: 20vw;
         max-height: 45vh;
         height: 25vw; 

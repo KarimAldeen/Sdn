@@ -1,14 +1,13 @@
 import React from 'react'
 import Page from '../../Layout/Page'
-import Mid from '../../components/Services/Mid'
-import Min from '../../components/Services/Min'
-import Sec from '../../components/Services/Sec'
-
+import Services_LeftSec from '../../components/Services/Services_LeftSec' 
+import Services_RightSec from '../../components/Services/Services_RightSec'
+import Services_MidSec from '../../components/Services/Services_MidSec'
 const ServicesPage = () => {
   return (
-<div>
-</div>
-   )
+        <Page LeftSec={Services_LeftSec} RightSec={Services_RightSec} MidSec={Services_MidSec}  Name={"Services"} />
+
+  )
 }
 
 export default ServicesPage

@@ -1,0 +1,51 @@
+.Services_RightSec {
+  height: 25vw;
+  z-index: 9999;
+}
+
+
+.Services_LeftSec {
+  color: var(--white);
+  width: 45vw;
+
+  .LeftSec_Top {
+    width:clamp(50vh,30vw,70vh);
+    margin-bottom: 1vh;
+
+    h3 {
+      font-weight: bold;
+      font-size: 2vw ;
+      max-width: max-content;
+
+    }
+
+    h4 {
+      font-weight: bold;
+      font-size:  clamp(3vw, 4vw, 6.4vh);
+      display: inline;
+      margin-bottom: 1vh;
+
+    }
+
+    h4 h4 {
+      color: black;
+
+    }
+  }
+
+  .LeftSec_Mid {
+    max-width: 33vw;
+
+  }
+
+  h6{
+    text-transform: lowercase;
+    font-size: max(1.2vw, 1.2vh);
+
+    width: 90%;
+    word-spacing: 7px;
+}
+
+
+
+}
