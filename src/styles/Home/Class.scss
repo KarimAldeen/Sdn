@@ -1,7 +1,10 @@
 .absolute{ position: absolute;top: 0;}
 .inline{display: inline;}
 .none{display: none;}
+
   .Tap{
+    .Home{
+       .Home_LeftSec{text-align: center  !important;}
     .Page{        padding: 17vh 5.3vw;}
     .BG{min-width: 100vw !important; height: 60vh !important; }
     .Tools{display: none;}
@@ -17,21 +20,75 @@
     .Icon{font-size: 2.5vh;} .Ibra{height: 5vh;} }
     .Home_RightSec{ height: max(25vw,25vh) !important;  ;
     }
-    .Mid_Item{
+    .Home_Mid{
+       .Mid_Item{
       font-size: 2.4vw ;
       margin-bottom: 1vh;
 
   }
- 
+  
+    }
+    
   .Down_Item{
     height : 13vw;
 }
+    }
+   
   }
+ 
 .BigTap{
-  .Down_Item{
+  .Home{
+    .Down_Item{
     height : 17vh;
 }
 .Down_Items{
   height:  20vh;
 }
+  }
+  
+}
+
+.BigLap{
+  .Home{
+    
+      .Page{        padding: 16vh 5.3vw}
+      .SocialMedia{padding-top: 16vh ; }
+
+      .BG{
+        height: 55vh !important; 
+      }
+      .Top{
+        margin-bottom: 0;
+      }
+  .Mid_Item{
+    font-size: 2.3vw;
+    
+
+}
+.LeftSec_Top{h1,h2{font-size: 6vh !important;}
+}
+.LeftSec_Mid{
+  h6{font-size: 2vh;}
+
+}
+.Down_Item{
+  height : 20vh;
+}
+.Home_Mid{
+  .Mid_Items{
+  height : 20vh;
+
+
+}
+}
+  }
+
+}
+.BigMobile{
+  .Home{
+     h6{display: none;}
+  .LeftSec_Top{h1,h2{font-size: 5vh !important; word-break: break; max-width: 60vw; }
+}
+  }
+ 
 }

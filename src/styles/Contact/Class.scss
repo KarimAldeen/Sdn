@@ -1,0 +1,134 @@
+.Contact{
+  .Page{   padding: max(13vh, 5vw) 5.5vw ; }
+.Top{ margin-bottom: min(7vh,5vw);}
+
+}
+
+  .Tap{
+    .Contact{
+       .Contact_LeftSec{ display: flex;flex-direction: column; justify-content: center;   width: 65vw;  align-items: center;     }
+    .Page{        padding: 16vh 5.3vw;}
+    .BG{min-width: 100vw !important; height: 60vh !important; }
+    .Tools{display: none;}
+    .Navbar{justify-content:center;.Link{font-size: 3.4vw;} }
+    .Top{flex-direction: column;align-items: center; margin-bottom:0 ;}
+    .LeftSec_Top{ display: flex; flex-direction: column; align-items: center; justify-content: center;  h4{font-size: min( 6vw , max(7vw ,5vh) ) !important; 
+      text-align: center; margin: auto ;}
+    h3{font-size: 6.7vw !important; text-align: center; }}
+    h4{display: none;}
+    h6{ font-size: 2.4vw;} 
+     .LeftSec_Mid{max-width: 100%;    text-align: center;   justify-content: center;
+      display: flex; }
+
+    .SocialMedia{flex-direction: row;padding: 18vh 11vw; 
+      justify-content: space-between;  width: 100vw;
+    .SocialMediaB{flex-direction: column-reverse;}  
+    
+    .Icon{font-size: 2.5vh;} .Ibra{height: 5vh;} }
+    .Contact_RightSec{ height: max(25vw,25vh) !important;  ;
+    }
+    .Contact_Mid{
+       .Mid_Item{
+      margin-bottom: 1vh;
+      height: 4vw;
+      img{
+      width: 20vw;
+      object-fit: cover !important;
+
+}
+  }
+  
+    }
+    
+  .Down_Item{
+    height : 13vw;
+}
+    }
+   
+  }
+ 
+.BigTap{
+  .Contact{
+    .Down_Item{
+    height : 17vh;
+}
+.Down_Items{
+  height:  20vh;
+}
+  }
+  .Mid_Item{
+    margin-bottom: 6vh !important;
+
+    img{
+      height:11vh !important;
+
+    width: 60vh !important;
+
+}
+} 
+.Mid_Items2{
+  display: none;
+}
+}
+
+.BigLap{
+  .Contact{
+    
+      .Page{        padding: 16vh 5.3vw}
+      .SocialMedia{padding-top: 16vh ; }
+
+      .BG{
+        height: 55vh !important; 
+      }
+      .Top{
+        margin-bottom: 0;
+      }
+  .Mid_Item{
+    font-size: 2.3vw;
+    
+
+}
+.LeftSec_Top{h1,h2{font-size: 6vh !important;}
+}
+.LeftSec_Mid{
+  h6{font-size: 2vh;}
+
+}
+.Down_Item{
+  height : 20vh;
+}
+.Contact_Mid{
+  .Mid_Items{
+  height : 20vh;
+
+
+}
+}
+  }
+
+}
+.BigMobile{
+  .Contact{
+   
+    h4{display: block;}
+    .SocialMedia{padding: 18vh 8vw; 
+    }
+    .LeftSec_Mid{
+      h6{font-size: 1.5vh;}
+    
+    }
+    .Mid_Item{
+      margin-bottom: 3vh !important;
+      transform: translateY(-4vh);
+  
+      img{
+        height: 7vh !important;
+  
+      width: 50vh !important;
+  
+  }
+  } 
+}
+
+  }
+ 

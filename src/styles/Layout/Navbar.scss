@@ -1,8 +1,8 @@
 .Navbar{
     display: flex;
     width: 100vw;
-    padding: 3vh 5vw;
-    z-index: 999;
+    padding: 3vh 5.5vw;
+    z-index: 99999;
     gap: 23vw;
     
 }
@@ -13,7 +13,7 @@
 }
 .Link {
     width: max-content;
-    font-size: 2vw;
+    font-size: 2.5vw;
     font-weight: bold;
     color: var(--white) !important;
     text-decoration: none;

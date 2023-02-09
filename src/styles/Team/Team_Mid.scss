@@ -1,0 +1,14 @@
+.Team_Mid {
+    @include Flex;
+    margin-bottom: min(5vh, 3vw);
+
+    .Mid_Item {
+        img{
+                   height: 3.6vw;
+                   object-fit: contain !important;
+
+ 
+        }
+
+    }
+}
