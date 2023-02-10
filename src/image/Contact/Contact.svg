@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="991.928" height="71.048" viewBox="0 0 991.928 71.048">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_11586" data-name="Group 11586" transform="translate(-246.671 -501.737)">
+    <g id="Group_11575" data-name="Group 11575" transform="translate(90.599 17.744)">
+      <g id="Group_11574" data-name="Group 11574" transform="translate(662.08 484.493)">
+        <g id="Group_11572" data-name="Group 11572" transform="translate(0 0)">
+          <g id="Group_11571" data-name="Group 11571">
+            <g id="Group_11570" data-name="Group 11570">
+              <g id="Group_11568" data-name="Group 11568" transform="translate(0 17.14)">
+                <path id="Path_1000" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+              </g>
+              <g id="Group_11569" data-name="Group 11569" transform="translate(3.277)">
+                <circle id="Ellipse_24" data-name="Ellipse 24" cx="24.067" cy="24.067" r="24.067" transform="translate(5.89 5.89)" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.54" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+                <path id="Path_1003" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4762ae" stroke-width="1"/>
+                <path id="Path_1002" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+              </g>
+            </g>
+            <g id="SVGRepo_iconCarrier" transform="translate(16.92 -209.592)">
+              <path id="Path_1008" data-name="Path 1008" d="M22.247,228.344v13.783L16.869,235.4l-1.022.818,5.431,6.789H.97L6.4,236.223,5.378,235.4,0,242.127V228.344l11.123,9.646Zm0-2.344v.61l-11.123,9.645L0,226.61V226H22.246Z" fill="#fff" stroke="#4762ae" stroke-width="1" fill-rule="evenodd"/>
+            </g>
+            <text id="info_sdnone.net" data-name="info@sdnone.net" transform="translate(55.92 24.271)" fill="#f4f6fa" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="17">info@sdnone.net</tspan></text>
+          </g>
+        </g>
+        <path id="Subtraction_2" data-name="Subtraction 2" d="M16.25,43.044A23.817,23.817,0,0,1,5.591,40.45,22.141,22.141,0,0,1,0,36.544l.619-.683a22.839,22.839,0,0,0,15.3,5.94C28.833,41.8,39.34,30.837,39.34,17.36A24.89,24.89,0,0,0,32.762.377L33.105,0a25.472,25.472,0,0,1,7.209,17.925,25.535,25.535,0,0,1-7.047,17.764A23.413,23.413,0,0,1,16.25,43.044Z" transform="translate(10.954 5.404)" fill="none" stroke="#fff" stroke-width="1"/>
+        <path id="Path_1007" data-name="Path 1007" d="M9655.225,4120.493l-7.113,5.519,5.871,7.117,8.719-8.542Z" transform="translate(-9610.225 -4117.803)" fill="#fff"/>
+      </g>
+      <g id="Group_11583" data-name="Group 11583" transform="translate(46.5)">
+        <g id="Group_11574-2" data-name="Group 11574" transform="translate(362.08 484.493)">
+          <g id="Group_11572-2" data-name="Group 11572" transform="translate(0 0)">
+            <g id="Group_11571-2" data-name="Group 11571">
+              <g id="Group_11570-2" data-name="Group 11570">
+                <g id="Group_11568-2" data-name="Group 11568" transform="translate(0 17.14)">
+                  <path id="Path_1000-2" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                  <path id="Path_1001" data-name="Path 1001" d="M-125.7,257.036Z" transform="translate(165.709 -213.437)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                </g>
+                <g id="Group_11569-2" data-name="Group 11569" transform="translate(3.277)">
+                  <circle id="Ellipse_24-2" data-name="Ellipse 24" cx="24.067" cy="24.067" r="24.067" transform="translate(5.89 5.89)" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.54" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+                  <path id="Path_1003-2" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4762ae" stroke-width="1"/>
+                  <path id="Path_1002-2" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                </g>
+              </g>
+              <g id="SVGRepo_iconCarrier-2" data-name="SVGRepo_iconCarrier" transform="translate(19.816 14.784)">
+                <path id="Path_999" data-name="Path 999" d="M0,9.663a8.478,8.478,0,0,0,.6,2.673,23.225,23.225,0,0,0,1.1,2.536,23.033,23.033,0,0,0,3.412,5.046,13.412,13.412,0,0,0,4.676,3.437,7.89,7.89,0,0,0,3.2.982,5.487,5.487,0,0,0,2.123-.6,3.122,3.122,0,0,0,1.6-1.554,5.865,5.865,0,0,0,.405-1.91.88.88,0,0,0-.024-.3,1.21,1.21,0,0,0-.43-.436c-.43-.245-.5-.327-1.145-.764-.668-.436-1.36-.928-1.957-1.282A1.486,1.486,0,0,0,13,17.217c-.382,0-.859.6-1.264,1.255-.43.655-.907,1.255-1.241,1.255a.938.938,0,0,1-.525-.218c-.191-.136-.382-.245-.5-.327a12.784,12.784,0,0,1-4.7-5.346,3.62,3.62,0,0,1-.477-1.146c0-.354.43-.764.859-1.2a2.281,2.281,0,0,0,.835-1.5,3.936,3.936,0,0,0-.144-.682c-.215-.71-.5-1.527-.74-2.318-.119-.382-.215-.655-.239-.791a1,1,0,0,1-.1-.327c-.024-.136-.072-.245-.1-.354a1.215,1.215,0,0,0-.31-.545,2.537,2.537,0,0,0-.692-.164c-.286,0-.621-.027-.763-.027a.948.948,0,0,0-.263.027h-.31A4.024,4.024,0,0,0,.62,6.854,7.47,7.47,0,0,0,0,9.663Z" transform="translate(0.001 -4.781)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <path id="Subtraction_2-2" data-name="Subtraction 2" d="M16.25,43.044A23.817,23.817,0,0,1,5.591,40.45,22.141,22.141,0,0,1,0,36.544l.619-.683a22.839,22.839,0,0,0,15.3,5.94C28.833,41.8,39.34,30.837,39.34,17.36A24.89,24.89,0,0,0,32.762.377L33.105,0a25.472,25.472,0,0,1,7.209,17.925,25.535,25.535,0,0,1-7.047,17.764A23.413,23.413,0,0,1,16.25,43.044Z" transform="translate(10.954 5.404)" fill="none" stroke="#fff" stroke-width="1"/>
+          <path id="Path_1007-2" data-name="Path 1007" d="M9655.225,4120.493l-7.113,5.519,5.871,7.117,8.719-8.542Z" transform="translate(-9610.225 -4117.803)" fill="#fff"/>
+        </g>
+        <text id="_971_54_700_6935_963_99_555_4375" data-name="+971 54 700 6935
++963 99 555 4375" transform="translate(423.781 508.304)" fill="#fff" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="11">+971 54 700 6935</tspan><tspan x="0" y="23">+963 99 555 4375</tspan></text>
+      </g>
+      <g id="Group_11582" data-name="Group 11582" transform="translate(-15)">
+        <g id="Group_11574-3" data-name="Group 11574" transform="translate(945.08 484.493)">
+          <g id="Group_11572-3" data-name="Group 11572" transform="translate(0 0)">
+            <g id="Group_11571-3" data-name="Group 11571">
+              <g id="Group_11570-3" data-name="Group 11570">
+                <g id="Group_11568-3" data-name="Group 11568" transform="translate(0 17.14)">
+                  <path id="Path_1000-3" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                </g>
+                <g id="Group_11569-3" data-name="Group 11569" transform="translate(3.277)">
+                  <circle id="Ellipse_24-3" data-name="Ellipse 24" cx="24.067" cy="24.067" r="24.067" transform="translate(5.89 5.89)" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.54" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+                  <path id="Path_1003-3" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4762ae" stroke-width="1"/>
+                  <path id="Path_1002-3" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                </g>
+              </g>
+              <g id="SVGRepo_iconCarrier-3" data-name="SVGRepo_iconCarrier" transform="translate(11.143 8.287)">
+                <path id="Path_1009" data-name="Path 1009" d="M11.163,11.554A4.837,4.837,0,1,1,16,16.36a4.822,4.822,0,0,1-4.837-4.806Zm-3.386.6c0,2.011,2.454,6.25,2.454,6.25L16,28.018,21.438,18.4s2.785-4.27,2.785-6.25a8.223,8.223,0,0,0-16.446,0Z" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <path id="Subtraction_2-3" data-name="Subtraction 2" d="M16.25,43.044A23.817,23.817,0,0,1,5.591,40.45,22.141,22.141,0,0,1,0,36.544l.619-.683a22.839,22.839,0,0,0,15.3,5.94C28.833,41.8,39.34,30.837,39.34,17.36A24.89,24.89,0,0,0,32.762.377L33.105,0a25.472,25.472,0,0,1,7.209,17.925,25.535,25.535,0,0,1-7.047,17.764A23.413,23.413,0,0,1,16.25,43.044Z" transform="translate(10.954 5.404)" fill="none" stroke="#fff" stroke-width="1"/>
+          <path id="Path_1007-3" data-name="Path 1007" d="M9655.225,4120.493l-7.113,5.519,5.871,7.117,8.719-8.542Z" transform="translate(-9610.225 -4117.803)" fill="#fff"/>
+        </g>
+        <text id="Dubai-AL_Mamzar" data-name="Dubai-AL Mamzar" transform="translate(1001 510.763)" fill="#f4f6fa" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="16">Dubai-AL Mamzar</tspan></text>
+      </g>
+    </g>
+    <g id="Group_11584" data-name="Group 11584">
+      <g id="Group_11580" data-name="Group 11580" transform="translate(73 0)">
+        <g id="Group_11579" data-name="Group 11579" transform="translate(172.58 502.237)">
+          <g id="Group_11572-4" data-name="Group 11572" transform="translate(0 0)">
+            <g id="Group_11571-4" data-name="Group 11571">
+              <g id="Group_11570-4" data-name="Group 11570">
+                <g id="Group_11568-4" data-name="Group 11568" transform="translate(0 17.14)">
+                  <path id="Path_1000-4" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                </g>
+                <g id="Group_11569-4" data-name="Group 11569" transform="translate(3.277)">
+                  <circle id="Ellipse_24-4" data-name="Ellipse 24" cx="24.067" cy="24.067" r="24.067" transform="translate(5.89 5.89)" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.54" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+                  <path id="Path_1003-4" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4762ae" stroke-width="1"/>
+                  <path id="Path_1002-4" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                </g>
+              </g>
+              <g id="SVGRepo_iconCarrier-4" data-name="SVGRepo_iconCarrier" transform="translate(11.143 8.287)">
+                <path id="Path_1009-2" data-name="Path 1009" d="M11.163,11.554A4.837,4.837,0,1,1,16,16.36a4.822,4.822,0,0,1-4.837-4.806Zm-3.386.6c0,2.011,2.454,6.25,2.454,6.25L16,28.018,21.438,18.4s2.785-4.27,2.785-6.25a8.223,8.223,0,0,0-16.446,0Z" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <path id="Subtraction_2-4" data-name="Subtraction 2" d="M16.25,43.044A23.817,23.817,0,0,1,5.591,40.45,22.141,22.141,0,0,1,0,36.544l.619-.683a22.839,22.839,0,0,0,15.3,5.94C28.833,41.8,39.34,30.837,39.34,17.36A24.89,24.89,0,0,0,32.762.377L33.105,0a25.472,25.472,0,0,1,7.209,17.925,25.535,25.535,0,0,1-7.047,17.764A23.413,23.413,0,0,1,16.25,43.044Z" transform="translate(10.954 5.404)" fill="none" stroke="#fff" stroke-width="1"/>
+          <path id="Path_1007-4" data-name="Path 1007" d="M9655.225,4120.493l-7.113,5.519,5.871,7.117,8.719-8.542Z" transform="translate(-9610.225 -4117.803)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Syria-AL_Mazah" data-name="Syria-AL Mazah" transform="translate(304.599 528.507)" fill="#f4f6fa" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="16">Syria-AL Mazah</tspan></text>
+    </g>
+  </g>
+</svg>

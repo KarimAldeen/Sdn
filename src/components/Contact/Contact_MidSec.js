@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from '../../image/Contact/All.svg'
+import Img from '../../image/Contact/Contact.svg'
 
 
 const Contact_MidSec = () => {
