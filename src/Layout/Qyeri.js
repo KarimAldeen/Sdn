@@ -58,7 +58,7 @@ const Qyeri = ({Name}) => {
         }
         handleResize()
 
-    }, [])
+    }, [Name])
 
 }
 

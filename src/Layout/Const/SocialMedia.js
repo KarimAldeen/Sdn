@@ -1,6 +1,7 @@
 import React from 'react'
 import { TiSocialTwitter } from "react-icons/ti";
-import { FaLinkedin,FaFacebook,FaInstagramSquare } from "react-icons/fa";
+import {AiFillInstagram, AiOutlineInstagram} from 'react-icons/ai'
+import { FaLinkedin,FaFacebook } from "react-icons/fa";
 const SocialMedia = () => {
   return (
     <div className='SocialMedia absolute'>
@@ -15,7 +16,7 @@ const SocialMedia = () => {
 
 
         <i className="Icon"><FaFacebook/></i>
-        <i className="Icon"><FaInstagramSquare/></i>
+        <i className="Icon " style={{color:"black"}}><AiFillInstagram style={{color:"black"}}/></i>
 
       <div className='Ibra'></div>
       </div>

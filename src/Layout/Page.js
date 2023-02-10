@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import Const from './Const/Const'
 import Mid from './Mid'
 import Top from './Top'

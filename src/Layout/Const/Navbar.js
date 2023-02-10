@@ -7,15 +7,16 @@ const Navbar = () => {
     return (
         <div className='Navbar absolute'>
             <div className='Links'>
-                <Link to="/" className="Link">Home</Link>
-                <Link to="services" className="Link">Servises</Link>
-                <Link to="Team" className="Link">Our Team</Link>
-                <Link to="Contact" className="Link">Contact</Link>
+                <Link to="/" className="Link"   >Home</Link>
+                <Link to="/services" className="Link" >Servises</Link>
+                <Link to="/Team" className="Link" >Our Team</Link>
+                <Link to="/Contact" className="Link" >Contact</Link>
             </div>
 
             <div className='Tools'>
                 <BtnDarkMood />
                 <BtnLung />
+
                 <img className='Logo' src={Sdn} alt='' style={{ height: "3vw" }} />
             </div>
 
