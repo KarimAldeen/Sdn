@@ -2,8 +2,8 @@ import { useEffect } from 'react'
 import BGM from '../image/Home/BGM.png'; import BG from '../image/Home/BG.png';
 import H_M from '../image/mobile/HomeMobile.png';
 import H_P from '../image/Laptop/H_P.png'; import S_P from '../image/Laptop/S_P.png';
-import AllMidImg from '../image/Services/1234.svg' 
-import OneMidImg from '../image/Services/1.svg' 
+import Services from '../image/Services/Services.svg' 
+import Service from '../image/Services/Service.svg' 
 
 const Qyeri = ({Name}) => {   
    
@@ -19,15 +19,14 @@ const Qyeri = ({Name}) => {
             if (Windows <= .7) {console.log(".7")
                 Bg.src = BGM ; Body.classList= 'Tap BigTap BigMobile'
                 Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
-                MidImg.src = AllMidImg
+                MidImg.src = Services
 
             }
             else if ((Windows <= 1) && (Windows >= .7)) { console.log("1")
                 Body.classList= 'Tap BigTap';  Bg.src = BGM
                 Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
                 if(Name === "Services"){
-                MidImg.src = AllMidImg
-                    console.log('ibrahim')
+                MidImg.src = Services
                 }
 
             }
@@ -35,7 +34,7 @@ const Qyeri = ({Name}) => {
                 Body.classList= 'Tap'; Bg.src = BGM
                 Laptop1.src = H_P; Laptop2.src = S_P; Laptop3.src = H_P; Laptop4.src = S_P;
                 if(Name === "Services"){
-                MidImg.src = OneMidImg
+                MidImg.src = Service
 
                 }
 
@@ -43,7 +42,7 @@ const Qyeri = ({Name}) => {
             else if (Windows <= 1.5) { console.log("1.5")
                 Body.classList= 'BigLap'; Bg.src= BG
                 Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
-                MidImg.src = OneMidImg
+                MidImg.src = Service
 
                 
             }
@@ -51,7 +50,7 @@ const Qyeri = ({Name}) => {
                 Body.classList= ''; Bg.src= BG
                 Laptop1.src = H_P; Laptop2.src = S_P; Laptop3.src = H_P; Laptop4.src = S_P;
                 if(Name === "Services"){
-                    MidImg.src = OneMidImg
+                    MidImg.src = Service
                     }
               
             }
