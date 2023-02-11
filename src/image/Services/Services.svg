@@ -1,24 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="310.417" height="59.871" viewBox="0 0 310.417 59.871">
-  <g id="Group_11534" data-name="Group 11534" transform="translate(-5817.685 -3416)">
-    <g id="Group_11527" data-name="Group 11527" transform="translate(5753 3036)">
+<svg xmlns="http://www.w3.org/2000/svg" width="321.419" height="62.556" viewBox="0 0 321.419 62.556">
+  <g id="Group_11534" data-name="Group 11534" transform="translate(-5806.684 -3416)">
+    <g id="Group_11527" data-name="Group 11527" transform="translate(5742 3036)">
       <g id="Group_10810" data-name="Group 10810">
         <g id="Group_10778" data-name="Group 10778" transform="translate(75.729 380)">
-          <path id="Path_776" data-name="Path 776" d="M0,0H135.373V24.305H0Z" transform="translate(0 0)" fill="#f8f8f8"/>
-          <path id="Path_76" data-name="Path 76" d="M970.383,3941.609l11.671-23.8H954.88v23.8Z" transform="translate(-954.424 -3917.81)" fill="#475fac"/>
-          <text id="WEB_DEVELOPMENT" data-name="WEB DEVELOPMENT" transform="translate(27.63 16.115)" font-size="9" font-family="Montserrat" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">WEB </tspan><tspan y="0" font-size="8">DEVELOPMENT</tspan></text>
-          <text id="_01" data-name="01" transform="translate(6.017 13.255)" fill="#fff" font-size="7" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">01</tspan></text>
+          <path id="Path_776" data-name="Path 776" d="M0,0H135.373V24.305H0Z" fill="#f8f8f8"/>
+          <path id="Path_76" data-name="Path 76" d="M970.383,3941.61l11.671-23.8H954.88v23.8Z" transform="translate(-954.424 -3917.81)" fill="#475fac"/>
+          <text id="WEB_DEVELOPMENT" data-name="WEB DEVELOPMENT" transform="translate(27.63 16.115)" font-size="9" font-family="Montserrat" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">WEB </tspan><tspan y="0" font-size="8" letter-spacing="0.022em">DEVELOPMENT</tspan></text>
+          <text id="_01" data-name="01" transform="translate(6.017 13.255)" fill="#fff" font-size="7" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">01</tspan></text>
         </g>
         <path id="Path_87" data-name="Path 87" d="M0,0H3.709V24.305H0Z" transform="translate(207.291 380)" fill="#475fac"/>
       </g>
-      <g id="Group_11529" data-name="Group 11529">
+      <g id="Group_11529" data-name="Group 11529" transform="translate(-0.001 6)">
         <g id="Group_11530" data-name="Group 11530">
           <g id="Group_10812" data-name="Group 10812">
             <g id="Group_10778-2" data-name="Group 10778" transform="translate(64.685 411.756)">
-              <rect id="Rectangle_15" data-name="Rectangle 15" width="134.675" height="24.8" transform="translate(11.743 0)" fill="#f8f8f8"/>
-              <path id="Path_76-2" data-name="Path 76" d="M966.551,3917.809l-11.671,24.8h27.174v-24.8Z" transform="translate(-954.88 -3917.81)" fill="#475fac"/>
-              <text id="MOBILE_DEVELOPMENT_" data-name="MOBILE DEVELOPMENT
-" transform="translate(32.674 15.115)" font-size="9" font-family="Montserrat" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">MOBILE </tspan><tspan y="0" font-size="8">DEVELOPMENT</tspan><tspan font-size="8"><tspan x="0" y="11"></tspan></tspan></text>
-              <text id="_02" data-name="02" transform="translate(11.743 14.4)" fill="#fff" font-size="7" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">02</tspan></text>
+              <rect id="Rectangle_15" data-name="Rectangle 15" width="134.675" height="24.8" transform="translate(11.743)" fill="#f8f8f8"/>
+              <path id="Path_76-2" data-name="Path 76" d="M966.551,3917.81l-11.671,24.8h27.174v-24.8Z" transform="translate(-954.88 -3917.81)" fill="#475fac"/>
+              <text id="MOBILE_DEVELOPMENT_" data-name="MOBILE DEVELOPMENT " transform="translate(32.674 15.115)" font-size="9" font-family="Montserrat" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">MOBILE </tspan><tspan y="0" font-size="8" letter-spacing="0.022em">DEVELOPMENT</tspan></text>
+              <text id="_02" data-name="02" transform="translate(11.743 14.4)" fill="#fff" font-size="7" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">02</tspan></text>
             </g>
           </g>
           <path id="Path_777" data-name="Path 777" d="M0,0H3.709V24.305H0Z" transform="translate(207.393 411.756)" fill="#475fac"/>
@@ -28,21 +27,20 @@
     <g id="Group_11531" data-name="Group 11531" transform="translate(5917 3004.244)">
       <g id="Group_10812-2" data-name="Group 10812">
         <g id="Group_10778-3" data-name="Group 10778" transform="translate(64.685 411.756)">
-          <rect id="Rectangle_15-2" data-name="Rectangle 15" width="134.675" height="24.8" transform="translate(11.743 0)" fill="#f8f8f8"/>
-          <path id="Path_76-3" data-name="Path 76" d="M966.551,3917.809l-11.671,24.8h27.174v-24.8Z" transform="translate(-954.88 -3917.81)" fill="#475fac"/>
-          <text id="MOBILE_DEVELOPMENT_2" data-name="MOBILE DEVELOPMENT
-" transform="translate(32.674 15.115)" font-size="9" font-family="Montserrat" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">MOBILE </tspan><tspan y="0" font-size="8">DEVELOPMENT</tspan><tspan font-size="8"><tspan x="0" y="11"></tspan></tspan></text>
-          <text id="_03" data-name="03" transform="translate(11.743 14.4)" fill="#fff" font-size="7" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">03</tspan></text>
+          <rect id="Rectangle_15-2" data-name="Rectangle 15" width="134.675" height="24.8" transform="translate(11.743)" fill="#f8f8f8"/>
+          <path id="Path_76-3" data-name="Path 76" d="M966.551,3917.81l-11.671,24.8h27.174v-24.8Z" transform="translate(-954.88 -3917.81)" fill="#475fac"/>
+          <text id="MOBILE_DEVELOPMENT_2" data-name="MOBILE DEVELOPMENT " transform="translate(32.674 15.115)" font-size="9" font-family="Montserrat" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">MOBILE </tspan><tspan y="0" font-size="8" letter-spacing="0.022em">DEVELOPMENT</tspan></text>
+          <text id="_03" data-name="03" transform="translate(11.743 14.4)" fill="#fff" font-size="7" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">03</tspan></text>
         </g>
       </g>
       <path id="Path_777-2" data-name="Path 777" d="M0,0H3.709V24.305H0Z" transform="translate(207.393 411.756)" fill="#475fac"/>
     </g>
-    <g id="Group_11533" data-name="Group 11533" transform="translate(5905.956 3065.935)">
+    <g id="Group_11533" data-name="Group 11533" transform="translate(5905.956 3074.251)">
       <g id="Group_10778-4" data-name="Group 10778" transform="translate(75.729 380)">
-        <path id="Path_776-2" data-name="Path 776" d="M0,0H146.417V24.305H0Z" transform="translate(0 0)" fill="#f8f8f8"/>
-        <path id="Path_76-4" data-name="Path 76" d="M970.383,3941.609l11.671-23.8H954.88v23.8Z" transform="translate(-954.424 -3917.81)" fill="#475fac"/>
+        <path id="Path_776-2" data-name="Path 776" d="M0,0H146.417V24.305H0Z" fill="#f8f8f8"/>
+        <path id="Path_76-4" data-name="Path 76" d="M970.383,3941.61l11.671-23.8H954.88v23.8Z" transform="translate(-954.424 -3917.81)" fill="#475fac"/>
         <text id="BackEnd_Servier" data-name="BackEnd Servier" transform="translate(37.674 15.255)" font-size="9" font-family="Montserrat" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">BACKEND SERVIER</tspan></text>
-        <text id="_04" data-name="04" transform="translate(6.017 13.255)" fill="#fff" font-size="7" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">04</tspan></text>
+        <text id="_04" data-name="04" transform="translate(6.017 13.255)" fill="#fff" font-size="7" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">04</tspan></text>
       </g>
       <path id="Path_87-2" data-name="Path 87" d="M0,0H3.709V24.305H0Z" transform="translate(218.335 380)" fill="#475fac"/>
     </g>

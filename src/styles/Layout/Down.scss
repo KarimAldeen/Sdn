@@ -2,7 +2,6 @@
   
     width: 100vw;
     max-width: 100vw;
-    // background: url('../../image/Home/BG_Down.png');
     background-size: cover;
     background-repeat: no-repeat;
     transform: translateX(-5.3vw);
@@ -12,7 +11,7 @@
 }
 
 .Down_Item{
-    height: min(11vw, 20vh);
+    height: max(10vw ,20vh);
     object-fit: contain;
     cursor: pointer;
     z-index: 999;
@@ -26,15 +25,6 @@
     display: flex;
     justify-content: space-around;
     width: 100vw;
-    height: min(11vw, 20vh);
     align-items: center;
  
-}
-.LapHover{
-    height: 27vh;
-    transform: translateY(-3vw);
-    transition: ease-in-out;
-    animation:LapHovers 2s ;
-
-
 }

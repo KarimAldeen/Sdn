@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Sdn from '../../image/Home/Sdn.png'
+import Sdn from '../../image/Const/Sdn.png'
 import BtnDarkMood from '../../utils/BtnDarkMood/BtnDarkMood'
 import BtnLung from '../../utils/BtnLung/BtnLung'
 const Navbar = () => {

@@ -1,5 +1,5 @@
 import React from 'react'
-import BG from '../../image/Home/BG.png'
+import BG from '../../image/Const/BG.png'
 import Navbar from './Navbar'
 import SocialMedia from './SocialMedia'
 const Const = () => {

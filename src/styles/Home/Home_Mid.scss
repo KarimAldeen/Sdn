@@ -1,28 +1,13 @@
 .Home_Mid{
     @include Flex;
-    overflow: hidden; 
-      margin-bottom: min(5vh,3vw);
-flex-wrap: wrap;
+    margin-bottom: min(5vh,3vw);
+   
+            img{
+                height: 5vw;
+            }
 
-    .Mid_Item{
-        font-size: clamp(2vh, 1.9vw, 3vw);
-        font-weight: bold;
-        @include FlexC;
-        width: max-content;
+    
 
-    }
-    .Mid_Item_Num{
-        color: var(--primary);
-        font-weight: 950;
-
-    }
-    .Mid_Items{
-        @include Flex;
-
-        gap: 5vw;
-        margin-top: 0;
-        margin-inline: min(3vw);
-
-    }
+    
 }
 

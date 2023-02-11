@@ -1,15 +1,22 @@
 .Team_RightSec {
   height: 21vw;
-  z-index: 9999;
 }
-
+.Team{
+  .Top{
+    align-items: center;
+    margin-bottom:12vh !important;
+  }
+  .Page{
+    padding: max(4vh, 5.3vw) !important;
+  }
+}
 
 .Team_LeftSec {
   color: var(--white);
   width: 45vw;
 
   .LeftSec_Top {
-    width:clamp(50vh,30vw,70vh);
+    width:40vw;
     margin-bottom: 4vh;
 
     h3 {
@@ -43,7 +50,7 @@
 
   h6{
     text-transform: lowercase;
-    font-size: max(1.3vw, 1.3vh);
+    font-size: max(1.3vw, 2.4vh);
 
     width: 90%;
     word-spacing: 7px;

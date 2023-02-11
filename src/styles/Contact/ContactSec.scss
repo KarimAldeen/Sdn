@@ -8,9 +8,8 @@
   color: var(--white);
   width: 45vw;
 
+
   .LeftSec_Top {
-    width:clamp(50vh,30vw,70vh);
-    min-height: 23vh;
 
     h3 {
       font-weight: bold;
@@ -21,7 +20,7 @@
 
     h4 {
       font-weight: bold;
-      font-size:  clamp(3vw, 5vw, 7vh);
+      font-size: 4vw;
       display: inline;
       margin-bottom: 1vh;
 
@@ -42,7 +41,7 @@
 
   h6{
     text-transform: lowercase;
-    font-size: max(1.5vw, 1.5vh);
+    font-size: 1.3vw;
 
     width: 90%;
     word-spacing: 7px;

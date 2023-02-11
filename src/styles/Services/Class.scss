@@ -3,7 +3,59 @@
 .Top{ margin-bottom: min(7vh,5vw);}
 
 }
+.HeadLap{
+  .Services{
+    .Top{gap: 5vw ;}
+ .Services_RightSec{
+  min-height: 300px;
+ }
+ .Services_Mid{
+margin-top: 5vw;
+  img{
+    height: 2vw;
+}    
 
+}
+
+.Down_Item{
+  height : 20vh;
+}
+  }
+
+
+}
+
+.BigLap{
+  .Services{    
+      .Page{        padding: 16vh 5.3vw}
+      .SocialMedia{padding-top: 16vh ; }
+
+      .BG{
+        height: 55vh !important; 
+      }
+      .Top{
+        margin-bottom: 0;
+      }
+  .Mid_Item{
+  img{
+    height: 2.6vw;
+
+  }    
+
+}
+.LeftSec_Top{h1,h2{font-size: 6vh !important;}
+}
+.LeftSec_Mid{
+  h6{font-size: 2vh;}
+
+}
+.Down_Item{
+  height : 25vh;
+}
+
+  }
+
+}
   .Tap{
     .Services{
        .Services_LeftSec{ display: flex;flex-direction: column; justify-content: center;   width: 65vw;  align-items: center;     }
@@ -32,8 +84,7 @@
       margin-bottom: 1vh;
       height: 4vw;
       img{
-      width: 20vw;
-      object-fit: cover !important;
+      width: 97vw;
 
 }
   }
@@ -50,63 +101,21 @@
 .BigTap{
   .Services{
     .Down_Item{
-    height : 17vh;
+    height : 19vh;
 }
-.Down_Items{
-  height:  20vh;
-}
+.Mid{height: 14vh;}
   }
   .Mid_Item{
-    margin-bottom: 6vh !important;
 
     img{
-      height:11vh !important;
 
-    width: 60vh !important;
+    min-width: 65vh !important;
 
 }
 } 
-.Mid_Items2{
-  display: none;
-}
-}
-
-.BigLap{
-  .Services{
-    
-      .Page{        padding: 16vh 5.3vw}
-      .SocialMedia{padding-top: 16vh ; }
-
-      .BG{
-        height: 55vh !important; 
-      }
-      .Top{
-        margin-bottom: 0;
-      }
-  .Mid_Item{
-    font-size: 2.3vw;
-    
 
 }
-.LeftSec_Top{h1,h2{font-size: 6vh !important;}
-}
-.LeftSec_Mid{
-  h6{font-size: 2vh;}
 
-}
-.Down_Item{
-  height : 20vh;
-}
-.Services_Mid{
-  .Mid_Items{
-  height : 20vh;
-
-
-}
-}
-  }
-
-}
 .BigMobile{
   .Services{
    
@@ -118,16 +127,16 @@
     
     }
     .Mid_Item{
-      margin-bottom: 3vh !important;
-      transform: translateY(-4vh);
+      transform: translateY(-2vh);
   
       img{
-        height: 7vh !important;
-  
-      width: 50vh !important;
+        height: 17vw !important;
+      width: 50vw !important;
   
   }
   } 
+  .Mid{height: 11vh;}
+
 }
 
   }

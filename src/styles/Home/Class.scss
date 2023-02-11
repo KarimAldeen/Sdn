@@ -1,8 +1,69 @@
-.absolute{ position: absolute;top: 0;}
-.inline{display: inline;}
-.none{display: none;}
+.HeadLap{
+  .Home{
+    .Top{gap: 5vw ;}
+ .Home_RightSec{
+  min-height: 500px;
+ }
+ .Home_Mid{
+margin-top: 3vw;
+  img{
+    height: 4vw;
+}    
 
+}
+
+.Down_Item{
+  height : 20vh;
+}
+  }
+
+
+   
+}
+
+.BigLap{
+  //// 1
+  .Home{
+    
+      .Page{        padding: 16vh 5.3vw}
+      .SocialMedia{padding-top: 16vh ; }
+
+      .BG{
+        height: 55vh !important; 
+      }
+      .Top{
+        margin-bottom: 0;
+        gap: 20px;
+      }
+      .Home_RightSec{
+        height: 33vh; 
+   }
+  .Home_Mid{
+
+    img{
+      height: 5.5vw;
+  }    
+
+}
+.LeftSec_Top{h1,h2{font-size: 6vh !important;}
+}
+.LeftSec_Mid{
+  h6{font-size: 2vh;}
+
+}
+
+.Down_Item{
+ 
+  height : 25vh;
+
+
+
+}
+  }
+
+}
   .Tap{
+    //// 2
     .Home{
        .Home_LeftSec{text-align: center  !important;}
     .Page{        padding: 17vh 5.3vw;}
@@ -38,57 +99,51 @@
  
 .BigTap{
   .Home{
-    .Down_Item{
+    .Home_Mid{
+
+      img{
+        height: 15vw;
+    }    
+  
+  }
+  .Down_Item{
     height : 17vh;
-}
-.Down_Items{
-  height:  20vh;
 }
   }
   
 }
 
-.BigLap{
-  .Home{
-    
-      .Page{        padding: 16vh 5.3vw}
-      .SocialMedia{padding-top: 16vh ; }
 
-      .BG{
-        height: 55vh !important; 
-      }
-      .Top{
-        margin-bottom: 0;
-      }
-  .Mid_Item{
-    font-size: 2.3vw;
-    
-
-}
-.LeftSec_Top{h1,h2{font-size: 6vh !important;}
-}
-.LeftSec_Mid{
-  h6{font-size: 2vh;}
-
-}
-.Down_Item{
-  height : 20vh;
-}
-.Home_Mid{
-  .Mid_Items{
-  height : 20vh;
-
-
-}
-}
-  }
-
-}
 .BigMobile{
   .Home{
+    .Top{
+      max-height: 45vh;
+    }
      h6{display: none;}
   .LeftSec_Top{h1,h2{font-size: 5vh !important; word-break: break; max-width: 60vw; }
 }
+.Home_Mid{
+
+  img{
+    height: 15vw;
+}    
+
+}
+  }
+ 
+}
+.Mobile{
+  .Home{
+   
+.Home_Mid{
+
+  img{
+    height: 23vw !important;
+}    
+transform: translateY(-3vh);
+
+}
+.Link{font-size: 5vw !important;}
   }
  
 }
