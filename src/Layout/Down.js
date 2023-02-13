@@ -1,11 +1,29 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import H_P from '../image/Laptop/H_P.png'
-import S_P from '../image/Laptop/S_P.png'
+
 // import H_M from '../image/mobile/HomeMobile.png'
+import Laptop_Anim from '../image/Anim/LapHome_Anim.svg'
+import { useNavigate } from "react-router-dom"
+
 const Down = () => {
+  const navigate = useNavigate()
+
+ function Clicked(){
+  navigate(`/?event=Anim`)
  
+ }
+ function Clicked2(){
+  navigate(`/services?event=Anim`)
  
+ }
+ function Clicked3(){
+  navigate(`/Team?event=Anim`)
+ 
+ }
+ function Clicked4(){
+  navigate(`/Contact?event=Anim`)
+ 
+ }
 // function MouseEnter(event){
 //   event.target.src = "laptopk.png"
 //   event.target.className="Down_Item LapHover"
@@ -17,37 +35,15 @@ const Down = () => {
 
   return (
     <div className='Down' id='Down'>
-      <div className='Down_Items'>
-      {/* <Link onMouseEnter={(event) => MouseEnter(event)} onMouseLeave={(event) => MouseLeave(event)}> */}
-      <Link >
-
-      <picture>
-        {/* <source media="(min-height: 824px) and (max-width: 924px)" srcSet={H_M} alt='' />
-        <source media='(max-width : 800px) and (min-height: 600px)' srcSet={H_M} alt='' /> */}
-        <img className='Down_Item' id='Laptop1' src={H_P} alt=''  />
-      </picture>       </Link>
+      <div className='Down_Items' >
+        <img className='Down_Item' id='Laptop1' src="" alt='' onClick={Clicked}  />
+ 
+        <img className='Down_Item' id='Laptop2' src="" alt='' onClick={Clicked2} />
+         
     
-      <Link>
-      <picture>
-        {/* <source media="(min-height: 824px) and (max-width: 924px)" srcSet={H_M} alt='' />
-        <source media='(max-width : 800px) and (min-height: 600px)' srcSet={H_M} alt='' /> */}
-        <img className='Down_Item' id='Laptop2' src={S_P} alt=''  />
-      </picture>    
-         </Link>
-      <Link>
-      <picture>
-        {/* <source media="(min-height: 824px) and (max-width: 924px)" srcSet={H_M} alt='' />
-        <source media='(max-width : 800px) and (min-height: 600px)' srcSet={H_M} alt='' /> */}
-        <img className='Down_Item' id='Laptop3' src={H_P} alt=''  />
-      </picture>    
-         </Link>
-      <Link >
-      <picture>
-        {/* <source media="(min-height: 824px) and (max-width: 924px)" srcSet={H_M} alt='' />
-        <source media='(max-width : 800px) and (min-height: 600px)' srcSet={H_M} alt='' /> */}
-        <img className='Down_Item' id='Laptop4' src={S_P} alt=''  />
-      </picture>    
-         </Link>
+        <img className='Down_Item' id='Laptop3' src="" alt='' onClick={Clicked3} />
+       
+        <img className='Down_Item' id='Laptop4' src="" alt='' onClick={Clicked4} />
 
 </div>
     </div>

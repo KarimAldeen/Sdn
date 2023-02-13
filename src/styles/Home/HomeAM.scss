@@ -1,26 +1,3 @@
- .ServisesAnim{
-        height: 100vh; width: 100%;
-        position: absolute;
-        object-fit: contain;
-        animation:PageAnim 2s ;
-        transition: ease-in-out;
-    }
-    .ServisesAnim_two{
-        height: 100vh; width: 100%;
-        position: absolute;
-        object-fit: contain;
-        animation:PageAnimB 2s ;
-        transition: ease-in-out;
-        z-index: 2;
-    }
-    .Anim{
-        animation:PageAnim_Three 3s ;
-        transition: ease-in-out;
-    
-    }
-    .none{
-        display: none;
-    }
-    .Show{
-        opacity: 1;
-    }
+.Laptop_Anim{
+    width: 60vw;
+}

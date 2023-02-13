@@ -5,7 +5,7 @@ import SocialMedia from './SocialMedia'
 const Const = () => {
     return (
         <>
-        <div className='Const absolute'>
+        <div className='Const absolute' id='Const'>
             <picture>
             {/* <source media="(min-height: 824px) and (max-width: 924px)"srcSet={BGM} alt='' />
 

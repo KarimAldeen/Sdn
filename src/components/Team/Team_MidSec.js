@@ -4,10 +4,9 @@ import Img from '../../image/Team/TeamMid.svg'
 const Team_MidSec = () => {
   return (
     <div className='Team_Mid' id='Team_Mid'>
-        <div className='Mid_Item'>
-        <img src={Img} alt='' />
+          <div className='Mid_Item' >
+          <img src={Img} id='Mid_Item'  alt='' />
         </div>
-    
 
 
 

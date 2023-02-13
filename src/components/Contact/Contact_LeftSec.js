@@ -10,7 +10,6 @@ const Contact_LeftSec = () => {
         <div className='LeftSec_Mid'>
           <h6>
           with our amazing team we provied to you best  Services with best SEO and Practises 
-          with our amazing team we provied to you best  Services with best SEO and Practises 
           So hary up
           </h6>
 

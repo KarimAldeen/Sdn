@@ -3,20 +3,77 @@
 .Top{ margin-bottom: min(7vh,5vw);}
 
 }
+.HeadLap{
+  .Contact{
+    .Top{gap: 5vw ;
+    margin-bottom: -8vh !important;
+    }
+ 
+ .Contact_Mid{
+margin-top: 5vw;
+  img{
+    height: 10vh;
+}    
 
+}
+
+.Down_Item{
+
+  height : 20vh;
+}
+  }
+
+
+}
+
+
+.BigLap{
+  .Contact{    
+      .Page{        padding: 12vh 5.3vw}
+      .SocialMedia{padding-top: 16vh ; }
+
+      .BG{
+        height: 55vh !important; 
+      }
+      .Top{
+        margin-bottom: 3vh;
+      }
+  .Mid_Item{
+    margin-bottom: 3vh;
+
+  img{
+    height: auto !important;
+    width: 80vw !important;
+
+  }    
+
+}
+.LeftSec_Top{h1,h2{font-size: 6vh !important;}
+}
+.LeftSec_Mid{
+  h6{font-size: 2vh;}
+
+}
+.Down_Item{
+  height : 27vh;
+}
+
+  }
+
+}
   .Tap{
     .Contact{
-       .Contact_LeftSec{ display: flex;flex-direction: column; justify-content: center;   width: 65vw;  align-items: center;     }
-    .Page{        padding: 16vh 5.3vw;}
+       .Contact_LeftSec{ display: flex;flex-direction: column; justify-content: center;   width: 55vw;  align-items: center;     }
+    .Page{        padding: 12vh 5.3vw !important;}
     .BG{min-width: 100vw !important; height: 60vh !important; }
     .Tools{display: none;}
     .Navbar{justify-content:center;.Link{font-size: 3.4vw;} }
-    .Top{flex-direction: column;align-items: center; margin-bottom:0 ;}
-    .LeftSec_Top{ display: flex; flex-direction: column; align-items: center; justify-content: center;  h4{font-size: min( 6vw , max(7vw ,5vh) ) !important; 
+    .Top{flex-direction: column;align-items: center; margin-bottom:2vh !important; justify-content: center;}
+    .LeftSec_Top{ display: flex; flex-direction: column; align-items: center; justify-content: center;    width: 75vw; margin-bottom: .5vh !important;
+     h4{font-size: min( 6vw , max(7vw ,5vh) ) !important; 
       text-align: center; margin: auto ;}
-    h3{font-size: 6.7vw !important; text-align: center; }}
-    h4{display: none;}
-    h6{ font-size: 2.4vw;} 
+    h3{font-size: 5vw !important; text-align: center; }}
+    h6{ font-size: 1.8vw; display: none;} 
      .LeftSec_Mid{max-width: 100%;    text-align: center;   justify-content: center;
       display: flex; }
 
@@ -25,15 +82,14 @@
     .SocialMediaB{flex-direction: column-reverse;}  
     
     .Icon{font-size: 2.5vh;} .Ibra{height: 5vh;} }
-    .Contact_RightSec{ height: max(25vw,25vh) !important;  ;
+    .Contact_RightSec{ height: max(25vw,25vh) !important; transform: translateX(5vw) ;
     }
     .Contact_Mid{
        .Mid_Item{
-      margin-bottom: 1vh;
+      margin: 2vh 0vh;
       height: 4vw;
       img{
-      width: 20vw;
-      object-fit: cover !important;
+      width: 97vw;
 
 }
   }
@@ -49,67 +105,30 @@
  
 .BigTap{
   .Contact{
+    // h6{display: block !important ;}
+    .LeftSec_Mid{display: none;}
     .Down_Item{
-    height : 17vh;
+    height : 19vh;
 }
-.Down_Items{
-  height:  20vh;
-}
+.Mid{height: 16vh;}
   }
   .Mid_Item{
-    margin-bottom: 6vh !important;
 
     img{
-      height:11vh !important;
 
-    width: 60vh !important;
+    min-width: 95vw !important;
 
 }
 } 
-.Mid_Items2{
-  display: none;
-}
-}
-
-.BigLap{
-  .Contact{
-    
-      .Page{        padding: 16vh 5.3vw}
-      .SocialMedia{padding-top: 16vh ; }
-
-      .BG{
-        height: 55vh !important; 
-      }
-      .Top{
-        margin-bottom: 0;
-      }
-  .Mid_Item{
-    font-size: 2.3vw;
-    
 
 }
-.LeftSec_Top{h1,h2{font-size: 6vh !important;}
-}
-.LeftSec_Mid{
-  h6{font-size: 2vh;}
 
-}
-.Down_Item{
-  height : 20vh;
-}
-.Contact_Mid{
-  .Mid_Items{
-  height : 20vh;
-
-
-}
-}
-  }
-
-}
 .BigMobile{
   .Contact{
-   
+    .LeftSec_Mid,h6{display: block; text-align: center;}
+    h4 h4{display: inline;}
+    .Page{        padding: 9vh 5.3vw !important;}
+
     h4{display: block;}
     .SocialMedia{padding: 18vh 8vw; 
     }
@@ -118,16 +137,16 @@
     
     }
     .Mid_Item{
-      margin-bottom: 3vh !important;
-      transform: translateY(-4vh);
   
       img{
-        height: 7vh !important;
-  
-      width: 50vh !important;
+        height: 19vw !important;
+      width: 50vw !important;
   
   }
   } 
+  .Mid{height: 14vh;}
+  .Contact_RightSec{ height: min(50vw , 25vh) !important ;
+  }
 }
 
   }

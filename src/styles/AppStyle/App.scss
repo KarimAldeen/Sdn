@@ -5,4 +5,80 @@ a{color: inherit; font-weight: bold;}
 html{background-color: var(--bg); }
 .absolute{ position: absolute;top: 0;}
 .inline{display: inline;}
-.none{display: none;}
+.none{display: none !important;
+   
+
+}
+.Anim{
+    @include Flex;
+    width: 100vw; height: 100vh;
+    img{
+         width: 100vw;
+
+    }
+}
+.Laptop_Anim{
+    position: absolute;
+ 
+}
+.PageAnim{
+    transition:ease-in-out;
+    animation: Anim 2s ease-in-out;
+    
+
+}
+.Laptop_Anim{
+    animation: AnimLaptop 3s ease-in-out;
+
+}
+
+@keyframes Anim{
+  0% {
+    width: 100vw;
+   }
+  
+   25% {
+    width: 115vw;
+    ;
+
+   }
+ 
+   75% {
+    width: 135vw;
+
+   }
+  
+   100% {
+    width: 145vw;
+
+   }
+  
+}
+
+.OPA{
+    animation: AnimLaptop 5s ease-in-out;
+
+}
+@keyframes AnimLaptop{
+    from {
+        opacity: .5;
+     }
+    
+  
+    
+     to {
+opacity: 0;  
+     }
+    
+  }
+.Transform_Laptop{
+    position: absolute;
+    width: 100vw !important;
+    height: 100vh !important;
+    top: 0;
+}
+.Down2{
+    position: absolute;
+    bottom: 0;
+    height: 100vh;
+}

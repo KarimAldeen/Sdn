@@ -18,7 +18,7 @@ const Home_LeftSec = () => {
         
         <div className='LeftSec_Down'>
           <button>Contact</button>
-          <button className='BtnOut'> Projects </button>
+          <button className='BtnOut'> Services </button>
 
         </div>
       </div>
