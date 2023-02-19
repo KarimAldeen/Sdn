@@ -23,7 +23,7 @@ const Page = ({ LeftSec, RightSec, MidSec, Name }) => {
    const Laptop = document.getElementById("Laptop_Anim");
    const Page = document.getElementById("Page_Anim");
 
-      if((params.get('event')) != "Anim" ){
+      if((params.get('event')) !== "Anim" ){
         document.getElementById("Anim").classList.add("none")
       
           }
@@ -49,7 +49,7 @@ const Page = ({ LeftSec, RightSec, MidSec, Name }) => {
     }
   
       }
-    }, [])
+    }, [params])
     useEffect(() => {
   if((params.get('event')) === "Anim" ){
     const timer = setTimeout(() => {
@@ -64,13 +64,13 @@ const Page = ({ LeftSec, RightSec, MidSec, Name }) => {
         document.getElementById("Normal").classList.remove("none")
   
   
-      }, 3550);
+      }, 2300);
       return () => clearTimeout(timer2,timer);
   }
   
   
     
-    }, [params.get('event')]);
+    }, [params]);
     return (
         <>
             <div className='Anim' id='Anim'>
@@ -85,9 +85,12 @@ const Page = ({ LeftSec, RightSec, MidSec, Name }) => {
                 <div className={Name}>
                     <Const />
                     <div className='Page absolute'>
-                        <Top LeftSec={LeftSec} RightSec={RightSec} />
-                        <Mid MidSec={MidSec} />
-                        <Down />
+                        <div id='Hiden'>
+                            <Top LeftSec={LeftSec} RightSec={RightSec} />
+                        <Mid MidSec={MidSec} /> 
+                        </div>
+                       
+                        <Down Name={Name}/>
 
                     </div>
                 </div>

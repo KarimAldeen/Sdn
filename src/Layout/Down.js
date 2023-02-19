@@ -1,15 +1,43 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
-
-// import H_M from '../image/mobile/HomeMobile.png'
-import Laptop_Anim from '../image/Anim/LapHome_Anim.svg'
 import { useNavigate } from "react-router-dom"
 
-const Down = () => {
+const Down = ({Name}) => {
   const navigate = useNavigate()
 
  function Clicked(){
-  navigate(`/?event=Anim`)
+  if(Name != "Home"){
+    // document.getElementById("Laptop1").src = Home_Laptop
+
+     document.getElementById("Hiden").classList.add("Hiden")
+    document.getElementById("Hiden2").classList.add("Hiden")
+    document.getElementById("Laptop1").classList.add("Lap_Tran")
+
+  // navigate(`/?event=Anim`)
+  const timer = setTimeout(() => {
+
+    document.getElementById("Laptop1").classList.add("Lap_Tran2")
+
+  
+
+  }, 2000);
+  const timer2 = setTimeout(() => {
+    document.getElementById("Laptop2").classList.add("Hiden")
+      document.getElementById("Laptop3").classList.add("Hiden")
+      document.getElementById("Laptop4").classList.add("Hiden")
+    }, 2500);
+    const timer3 = setTimeout(() => {
+      document.getElementById("Laptop1").classList.add("Lap_Tran3")
+
+  
+    }, 2900);
+  const timer4 = setTimeout(() => {
+  
+    navigate(`/?event=Anim`)
+
+  }, 3000);
+  return () => clearTimeout(timer,timer2,timer3,timer4);
+  }
+   
  
  }
  function Clicked2(){

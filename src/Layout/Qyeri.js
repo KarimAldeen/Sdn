@@ -1,11 +1,11 @@
-import { useEffect } from 'react'
-import BGM from '../image/Const/BGM.png'; import BG from '../image/Const/BG.png';
+import {  useEffect  } from 'react';
+import BGM from '../image/Const/BGM.png';
+ import BG from '../image/Const/BG.png';
 import H_M from '../image/mobile/HomeMobile.png';
 import H_L from '../image/Laptop/Home_Laptop.svg';
 import S_L from '../image/Laptop/Services_Laptop.svg';
 import T_L from '../image/Laptop/Team_Laptop.svg';
 import C_L from '../image/Laptop/Contact_Laptop.svg';
-
 import Services from '../image/Services/Services.svg' 
 import Service from '../image/Services/Service.svg' 
 import Homes from '../image/Home/Homes.svg' 
@@ -17,6 +17,8 @@ import Teamss from '../image/Team/Teamss.svg'
 import Contacts from '../image/Contact/Contacts.svg' 
 import Contact from '../image/Contact/Contact.svg' 
 import Contactss from '../image/Contact/Contactss.svg'
+import Home_Laptop from '../image/Anim/LapHome_Anim.svg'
+
 const Qyeri = ({Name}) => {   
    
     useEffect(() => {
@@ -99,7 +101,7 @@ const Qyeri = ({Name}) => {
             }
             else if (Windows <= 1.5) { console.log("1.5","BigLap")
                 Body.classList= 'BigLap'; Bg.src= BG
-                Laptop1.src = H_L; Laptop2.src = S_L; Laptop3.src = T_L; Laptop4.src = C_L;
+                Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
                 
                 if(Name === "Services"){
                     MidImg.src = Service
@@ -135,7 +137,7 @@ const Qyeri = ({Name}) => {
             }
             else { console.log("else")
                 Body.classList= ''; Bg.src= BG
-                Laptop1.src = H_L; Laptop2.src = S_L; Laptop3.src = T_L; Laptop4.src = C_L;
+                Laptop1.src = Home_Laptop; Laptop2.src = S_L; Laptop3.src = T_L; Laptop4.src = C_L;
                 if(Name === "Services"){
                     MidImg.src = Service
                     }

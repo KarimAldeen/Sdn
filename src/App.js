@@ -1,8 +1,14 @@
+import { React} from 'react';
 import {BrowserRouter,Route, Routes} from 'react-router-dom'
 import HomePage from './page/Home/HomePage';
 import ServicesPage from './page/Services/ServicesPage';
 import ContactPage from './page/Contact/ContactPage';
 import TeamPage from './page/Team/TeamPage';
+// const HomePage = lazy(() => import("./page/Home/HomePage"))
+// const ServicesPage = lazy(() => import("./page/Services/ServicesPage"))
+// const ContactPage = lazy(() => import("./page/Contact/ContactPage"))
+// const TeamPage = lazy(() => import("./page/Team/TeamPage"))
+
 
 function App() {
   return (
