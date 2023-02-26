@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Sdn from '../../image/Const/Sdn.png'
 import BtnDarkMood from '../../utils/BtnDarkMood/BtnDarkMood'
-const Navbar = ({Name,setDark}) => {
+const Navbar = ({Name}) => {
     return (
         <div className='Navbar absolute'>
             <div className='Links'>
@@ -13,7 +13,7 @@ const Navbar = ({Name,setDark}) => {
             </div>
 
             <div className='Tools'>
-                <BtnDarkMood setDark={setDark} Name={Name}/>
+                <BtnDarkMood Name={Name}/>
 
                 <img className='Logo' src={Sdn} alt='' style={{ height: "3vw" }} />
             </div>

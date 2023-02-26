@@ -25,7 +25,6 @@ import LapContact_AnimDM from '../image/Anim/LapContact_AnimDM.png'
 const Page = ({ LeftSec, RightSec, MidSec, Name }) => {
     const location = useLocation()
     const params = new URLSearchParams(location.search)
-    const [Dark, setDark] = useState(false)
        const theme = localStorage.getItem("theme")
 
     useLayoutEffect(() => {
@@ -33,6 +32,7 @@ const Page = ({ LeftSec, RightSec, MidSec, Name }) => {
    const Page = document.getElementById("Page_Anim");
 
    if(theme === "dark"){
+    console.log('1');
     if((params.get('event')) !== "Anim" ){
         document.getElementById("Anim").classList.add("none")
       
@@ -62,6 +62,7 @@ const Page = ({ LeftSec, RightSec, MidSec, Name }) => {
    }
    else {
      if((params.get('event')) !== "Anim" ){
+
         document.getElementById("Anim").classList.add("none")
       
           }
@@ -123,7 +124,7 @@ const Page = ({ LeftSec, RightSec, MidSec, Name }) => {
             <div className='Normal' id='Normal'>
                 <Qyeri Name={Name} />
                 <div className={Name}>
-                    <Const  Name={Name} setDark={setDark} />
+                    <Const  Name={Name} />
                     <div className='Page absolute'>
                         <div id='Hiden'>
                             <Top LeftSec={LeftSec} RightSec={RightSec} />

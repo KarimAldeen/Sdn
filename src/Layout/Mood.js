@@ -34,8 +34,8 @@ import Contactss from '../image/Contact/Contactss.svg'
 
 
 const Mood = ({ isdark , Name}) => {
+
   useEffect(() => {
-    console.log(isdark);
     function handleResize() {
       window.addEventListener('resize', handleResize)
       let Windows = window.innerWidth /  window.innerHeight ;
@@ -44,6 +44,8 @@ const Mood = ({ isdark , Name}) => {
       let Laptop3 = document.getElementById("Laptop3");let Laptop4 = document.getElementById("Laptop4");
       let Body = document.body;let Bg = document.getElementById("BG")
 if(isdark === true){
+    console.log("1");
+
   if (Windows <= .5) {console.log(".5","Mobile")
   Bg.src = BGMD ; Body.classList= 'Tap BigTap BigMobile Mobile'
    Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
@@ -168,6 +170,8 @@ if(isdark === true){
    }
       }
       else{
+        console.log("2");
+
           if (Windows <= .5) {console.log(".5","Mobile")
          Bg.src = BGM ; Body.classList= 'Tap BigTap BigMobile Mobile'
           Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
@@ -296,7 +300,7 @@ if(isdark === true){
   }
     handleResize()
 
-  }, [isdark])
+  }, [Name,isdark])
 
 }
 
