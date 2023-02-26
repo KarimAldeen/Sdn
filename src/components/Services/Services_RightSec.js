@@ -1,5 +1,5 @@
 import React from 'react'
-import Services from "../../image/Services/Services.png"
+import Services from "../../image/Services/SecServices.svg"
 
 const Services_RightSec = () => {
     return (

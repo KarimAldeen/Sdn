@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from '../../image/Team/TeamMid.svg'
+import Img from '../../image/Team/Team.svg'
 
 const Team_MidSec = () => {
   return (

@@ -2,8 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Sdn from '../../image/Const/Sdn.png'
 import BtnDarkMood from '../../utils/BtnDarkMood/BtnDarkMood'
-import BtnLung from '../../utils/BtnLung/BtnLung'
-const Navbar = () => {
+const Navbar = ({Name,setDark}) => {
     return (
         <div className='Navbar absolute'>
             <div className='Links'>
@@ -14,8 +13,7 @@ const Navbar = () => {
             </div>
 
             <div className='Tools'>
-                <BtnDarkMood />
-                <BtnLung />
+                <BtnDarkMood setDark={setDark} Name={Name}/>
 
                 <img className='Logo' src={Sdn} alt='' style={{ height: "3vw" }} />
             </div>

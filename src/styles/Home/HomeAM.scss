@@ -1,3 +1,64 @@
-.Laptop_Anim{
-    width: 60vw;
+.Transform_Laptop{
+    position: absolute;
+    width: 100vw !important;
+    height: 100vh !important;
+    top: 0;
 }
+.Down2{
+    position: absolute;
+    bottom: 0;
+    height: 100vh;
+}
+.Hiden{
+    opacity: 0;
+}
+.Lap_Tran{
+    position: absolute;
+    animation: Lap_Tran 2s ease-in-out;
+    left: 40vw;
+    top: -40vh;
+
+
+
+}
+@keyframes Lap_Tran{
+    from {
+        top: 0;
+        rotate: 60deg;
+        left: 0;
+
+     }
+    
+  
+    
+     to {
+        top: -40vh;
+        rotate: 0deg;
+        left: 40vw;
+
+     }
+    
+  }
+  .Lap_Tran2{
+    animation: Lap_Tran2 1s ease-in-out;
+        opacity: 0;
+
+
+
+  }
+  @keyframes Lap_Tran2{
+    from {
+       opacity: 1;
+       scale: 1;
+
+     }
+    
+  
+    
+     to {
+        
+        scale: 4;
+            opacity: 0;
+     }
+    
+  }

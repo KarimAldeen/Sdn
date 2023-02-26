@@ -10,6 +10,8 @@
 
 }
 
-// :root:has(.dark) {
-    
-// }
+:root:has(.dark) {
+    --primary: black;
+    --black: hsl(223deg 43% 48%);
+
+}

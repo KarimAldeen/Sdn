@@ -3,7 +3,8 @@
     width: 100vw;
     padding: 3vh 5.5vw;
     z-index: 99999;
-    gap: 23vw;
+    justify-content: space-between;
+    align-items: center;
     
 }
 .Links{
@@ -19,5 +20,5 @@
     text-decoration: none;
 }
 .Tools{
-    display: flex; gap: 2vw; align-items: center;
+    display: flex; gap: 2vw; align-items: center; 
 }

@@ -23,7 +23,7 @@ html{background-color: var(--bg); }
 }
 .PageAnim{
     transition:ease-in-out;
-    animation: Anim .5s ease-in-out;
+    animation: Anim 1s ease-in-out;
     
 
 }
@@ -34,21 +34,25 @@ html{background-color: var(--bg); }
 
 @keyframes Anim{
   0% {
-    width: 100vw;
-    scale: 1;
    }
+  
+//    25% {
+//     width: 115vw;
+//     ;
 
+//    }
+ 
+//    75% {
+//     width: 135vw;
+
+//    }
   
    100% {
-    scale: 1.7;
+scale: 1.6;
    }
   
 }
 
-.OPA{
-    animation: AnimLaptop 5s ease-in-out;
-
-}
 @keyframes AnimLaptop{
     from {
         opacity: .5;
@@ -60,70 +64,4 @@ html{background-color: var(--bg); }
 opacity: 0;  
      }
     
-  }
-.Transform_Laptop{
-    position: absolute;
-    width: 100vw !important;
-    height: 100vh !important;
-    top: 0;
-}
-.Down2{
-    position: absolute;
-    bottom: 0;
-    height: 100vh;
-}
-.Hiden{
-    opacity: 0;
-}
-.Lap_Tran{
-    position: absolute;
-    animation: Lap_Tran 2s ease-in-out;
-    left: 40vw;
-    top: -40vh;
-
-
-
-}
-@keyframes Lap_Tran{
-    from {
-        top: 0;
-        rotate: 60deg;
-        left: 0;
-
-     }
-    
-  
-    
-     to {
-        top: -40vh;
-        rotate: 0deg;
-        left: 40vw;
-
-     }
-    
-  }
-  .Lap_Tran2{
-    animation: Lap_Tran2 1.4s ease-in-out;
-
-
-  }
-  @keyframes Lap_Tran2{
-    from {
-        rotate: 0deg;
-
-     }
-    
-  
-    
-     to {
-        
-        // rotate: 7200deg;
-        scale: 5;
-transform: translateY(1vh);
-     }
-    
-  }
-  .Lap_Tran3{
-opacity: .8;
-
   }

@@ -5,14 +5,11 @@ const Down = ({Name}) => {
   const navigate = useNavigate()
 
  function Clicked(){
-  if(Name != "Home"){
-    // document.getElementById("Laptop1").src = Home_Laptop
+  if(Name !== "Home"){
 
      document.getElementById("Hiden").classList.add("Hiden")
     document.getElementById("Hiden2").classList.add("Hiden")
     document.getElementById("Laptop1").classList.add("Lap_Tran")
-
-  // navigate(`/?event=Anim`)
   const timer = setTimeout(() => {
 
     document.getElementById("Laptop1").classList.add("Lap_Tran2")
@@ -24,55 +21,124 @@ const Down = ({Name}) => {
     document.getElementById("Laptop2").classList.add("Hiden")
       document.getElementById("Laptop3").classList.add("Hiden")
       document.getElementById("Laptop4").classList.add("Hiden")
-    }, 2500);
+    }, 2800);
     const timer3 = setTimeout(() => {
       document.getElementById("Laptop1").classList.add("Lap_Tran3")
 
   
-    }, 2900);
+    }, 3300);
   const timer4 = setTimeout(() => {
   
     navigate(`/?event=Anim`)
 
-  }, 3000);
+  }, 3600);
   return () => clearTimeout(timer,timer2,timer3,timer4);
   }
    
  
  }
  function Clicked2(){
-  navigate(`/services?event=Anim`)
+  if(Name !== "Services"){
+
+    document.getElementById("Hiden").classList.add("Hiden")
+   document.getElementById("Hiden2").classList.add("Hiden")
+   document.getElementById("Laptop2").classList.add("Lap_Tran")
+ const timer = setTimeout(() => {
+
+   document.getElementById("Laptop2").classList.add("Lap_Tran2")
+
  
+
+ }, 2000);
+ const timer2 = setTimeout(() => {
+   document.getElementById("Laptop1").classList.add("Hiden")
+     document.getElementById("Laptop3").classList.add("Hiden")
+     document.getElementById("Laptop4").classList.add("Hiden")
+   }, 2800);
+   const timer3 = setTimeout(() => {
+     document.getElementById("Laptop2").classList.add("Lap_Tran3")
+
+ 
+   }, 3300);
+ const timer4 = setTimeout(() => {
+ 
+   navigate(`/services?event=Anim`)
+
+ }, 3600);
+ return () => clearTimeout(timer,timer2,timer3,timer4);
+ }
  }
  function Clicked3(){
-  navigate(`/Team?event=Anim`)
+  if(Name !== "Team"){
+
+    document.getElementById("Hiden").classList.add("Hiden")
+   document.getElementById("Hiden2").classList.add("Hiden")
+   document.getElementById("Laptop3").classList.add("Lap_Tran")
+ const timer = setTimeout(() => {
+
+   document.getElementById("Laptop3").classList.add("Lap_Tran2")
+
  
+
+ }, 2000);
+ const timer2 = setTimeout(() => {
+   document.getElementById("Laptop2").classList.add("Hiden")
+     document.getElementById("Laptop1").classList.add("Hiden")
+     document.getElementById("Laptop4").classList.add("Hiden")
+   }, 2800);
+   const timer3 = setTimeout(() => {
+     document.getElementById("Laptop3").classList.add("Lap_Tran3")
+
+ 
+   }, 3300);
+ const timer4 = setTimeout(() => {
+ 
+   navigate(`/team?event=Anim`)
+
+ }, 3600);
+ return () => clearTimeout(timer,timer2,timer3,timer4);
+ }
+  
  }
  function Clicked4(){
-  navigate(`/Contact?event=Anim`)
+  if(Name !== "Contact"){
+
+    document.getElementById("Hiden").classList.add("Hiden")
+   document.getElementById("Hiden2").classList.add("Hiden")
+   document.getElementById("Laptop4").classList.add("Lap_Tran")
+ const timer = setTimeout(() => {
+
+   document.getElementById("Laptop4").classList.add("Lap_Tran2")
+
  
+
+ }, 2000);
+ const timer2 = setTimeout(() => {
+   document.getElementById("Laptop2").classList.add("Hiden")
+     document.getElementById("Laptop3").classList.add("Hiden")
+     document.getElementById("Laptop1").classList.add("Hiden")
+   }, 2800);
+   const timer3 = setTimeout(() => {
+     document.getElementById("Laptop5").classList.add("Lap_Tran3")
+
+ 
+   }, 3300);
+ const timer4 = setTimeout(() => {
+ 
+   navigate(`/contact?event=Anim`)
+
+ }, 3600);
+ return () => clearTimeout(timer,timer2,timer3,timer4);
  }
-// function MouseEnter(event){
-//   event.target.src = "laptopk.png"
-//   event.target.className="Down_Item LapHover"
-// }
-// function MouseLeave(event){
-//   event.target.src=`${H_P}`
-//   event.target.className="Down_Item"
-// }
+ }
 
   return (
     <div className='Down' id='Down'>
       <div className='Down_Items' >
         <img className='Down_Item' id='Laptop1' src="" alt='' onClick={Clicked}  />
- 
-        <img className='Down_Item' id='Laptop2' src="" alt='' onClick={Clicked2} />
-         
-    
+        <img className='Down_Item' id='Laptop2' src="" alt='' onClick={Clicked2} />    
         <img className='Down_Item' id='Laptop3' src="" alt='' onClick={Clicked3} />
-       
         <img className='Down_Item' id='Laptop4' src="" alt='' onClick={Clicked4} />
-
 </div>
     </div>
   )
