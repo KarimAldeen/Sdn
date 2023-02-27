@@ -47,7 +47,7 @@ if(isdark === true){
     console.log("1");
 
   if (Windows <= .5) {console.log(".5","Mobile")
-  Bg.src = BGMD ; Body.classList= 'Tap BigTap BigMobile Mobile'
+  Bg.src = BGMD ; Body.classList= 'Tap BigTap BigMobile Mobile dark'
    Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
    
    if(Name === "Home"){
@@ -98,7 +98,7 @@ if(isdark === true){
    }
 
    else if (Windows <= 1.2) { console.log("1.2","Tap dark")
-       Body.classList= 'Tap'; Bg.src = BGMD
+       Body.classList= 'Tap dark'; Bg.src = BGMD
        Laptop1.src = H_LD; Laptop2.src = S_LD; Laptop3.src = T_LD; Laptop4.src = C_LD;
        if(Name === "Services"){
        MidImg.src = ServiceDM
@@ -115,7 +115,7 @@ if(isdark === true){
            }
    }
    else if (Windows <= 1.5) { console.log("1.5","BigLap dark")
-       Body.classList= 'BigLap'; Bg.src= BGD
+       Body.classList= 'BigLap dark'; Bg.src= BGD
        Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
        
        if(Name === "Services"){
@@ -133,7 +133,7 @@ if(isdark === true){
        
    }
       else if (Windows >= 2) { console.log("2", "HeadLap dark")
-       Body.classList= 'HeadLap'; Bg.src= BGD
+       Body.classList= 'HeadLap dark'; Bg.src= BGD
        Laptop1.src = H_LD; Laptop2.src = S_LD; Laptop3.src = T_LD; Laptop4.src = C_LD;
      
            if(Name === "Home"){
