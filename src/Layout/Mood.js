@@ -1,6 +1,10 @@
 import { useEffect } from 'react';
 import BGMD from '../image/Const/BGMD.png';
 import BGD from '../image/Const/BGD.png';
+import H_MD from '../image/mobile/HomeMobieDM.png';
+import S_MD from '../image/mobile/ServicesMobieDM.png';
+import T_MD from '../image/mobile/TeamMobieDM.png';
+import C_MD from '../image/mobile/ContactMobieDM.png';
 import H_LD from '../image/Laptop/Home_LaptopDM.svg';
 import S_LD from '../image/Laptop/Services_LaptopDM.svg';
 import T_LD from '../image/Laptop/Team_LaptopDM.svg';
@@ -18,7 +22,10 @@ import ContactDM from '../image/Contact/ContactDM.svg'
 import ContactssDM from '../image/Contact/ContactssDM.svg'
 import BGM from '../image/Const/BGM.png';
  import BG from '../image/Const/BG.png';
-import H_M from '../image/mobile/HomeMobile.png';
+import H_M from '../image/mobile/HomeMobie.png';
+import S_M from '../image/mobile/ServicesMobie.png';
+import T_M from '../image/mobile/TeamMobie.png';
+import C_M from '../image/mobile/ContactMobie.png';
 import H_L from '../image/Laptop/Home_Laptop.svg';
 import S_L from '../image/Laptop/Services_Laptop.svg';
 import T_L from '../image/Laptop/Team_Laptop.svg';
@@ -48,7 +55,7 @@ if(isdark === true){
 
   if (Windows <= .5) {console.log(".5","Mobile")
   Bg.src = BGMD ; Body.classList= 'Tap BigTap BigMobile Mobile dark'
-   Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
+   Laptop1.src = H_MD; Laptop2.src = S_MD; Laptop3.src = T_MD; Laptop4.src = C_MD;
    
    if(Name === "Home"){
        MidImg.src = Homess
@@ -65,7 +72,7 @@ if(isdark === true){
 }
   else if (Windows <= .7) {console.log(".7","BigMobile")
        Bg.src = BGMD ; Body.classList= 'Tap BigTap BigMobile dark'
-       Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
+       Laptop1.src = H_MD; Laptop2.src = S_MD; Laptop3.src = T_MD; Laptop4.src = C_MD;
        if(Name === "Services"){
            MidImg.src = ServicesDM
        }
@@ -81,7 +88,7 @@ if(isdark === true){
    }
    else if ((Windows <= 1) && (Windows >= .7)) { console.log("1","BigTap dark")
        Body.classList= 'Tap BigTap';  Bg.src = BGMD
-           Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
+           Laptop1.src = H_MD; Laptop2.src = S_MD; Laptop3.src = T_MD; Laptop4.src = C_MD;
        if(Name === "Services"){
        MidImg.src = ServicesDM
        }
@@ -116,7 +123,7 @@ if(isdark === true){
    }
    else if (Windows <= 1.5) { console.log("1.5","BigLap dark")
        Body.classList= 'BigLap dark'; Bg.src= BGD
-       Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
+       Laptop1.src = H_MD; Laptop2.src = S_MD; Laptop3.src = T_MD; Laptop4.src = C_MD;
        
        if(Name === "Services"){
            MidImg.src = ServiceDM
@@ -174,7 +181,7 @@ if(isdark === true){
 
           if (Windows <= .5) {console.log(".5","Mobile")
          Bg.src = BGM ; Body.classList= 'Tap BigTap BigMobile Mobile'
-          Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
+          Laptop1.src = H_M; Laptop2.src = S_M; Laptop3.src = T_M; Laptop4.src = C_M;
           
           if(Name === "Home"){
               MidImg.src = Homess
@@ -191,7 +198,7 @@ if(isdark === true){
       }
          else if (Windows <= .7) {console.log(".7","BigMobile")
               Bg.src = BGM ; Body.classList= 'Tap BigTap BigMobile'
-              Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
+              Laptop1.src = H_M; Laptop2.src = S_M; Laptop3.src = T_M; Laptop4.src = C_M;
               if(Name === "Services"){
                   MidImg.src = Services
               }
@@ -207,7 +214,7 @@ if(isdark === true){
           }
           else if ((Windows <= 1) && (Windows >= .7)) { console.log("1","BigTap")
               Body.classList= 'Tap BigTap';  Bg.src = BGM
-                  Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
+                  Laptop1.src = H_M; Laptop2.src = S_M; Laptop3.src = T_M; Laptop4.src = C_M;
               if(Name === "Services"){
               MidImg.src = Services
               }
@@ -242,7 +249,7 @@ if(isdark === true){
           }
           else if (Windows <= 1.5) { console.log("1.5","BigLap")
               Body.classList= 'BigLap'; Bg.src= BG
-              Laptop1.src = H_M; Laptop2.src = H_M; Laptop3.src = H_M; Laptop4.src = H_M;
+              Laptop1.src = H_M; Laptop2.src = S_M; Laptop3.src = T_M; Laptop4.src = C_M;
               
               if(Name === "Services"){
                   MidImg.src = Service
