@@ -3,10 +3,6 @@
     <clipPath id="clip-path">
       <path id="Path_1020" data-name="Path 1020" d="M6509.5-190,6392.07,184.751s-11.745,35.115-62.633,51.076-628.281,79.807-628.281,79.807V-190Z" transform="translate(-5701.156 190)" fill="#fff"/>
     </clipPath>
-    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#4a81c2"/>
-      <stop offset="1" stop-color="#4655a5"/>
-    </linearGradient>
     <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
       <stop offset="0"/>
       <stop offset="1" stop-color="#fff"/>
@@ -20,7 +16,7 @@
       <path d="M 1 1 L 1 800 L 1292 800 L 1292 1 L 1 1 M 0 0 L 1293 0 L 1293 801 L 0 801 L 0 0 Z" stroke="none" fill="#000"/>
     </g>
     <g id="Group_14" data-name="Group 14" transform="translate(6532 -315)" clip-path="url(#clip-path)">
-      <path id="Sans_titre-1" data-name="Sans titre-1" d="M0,0H1261.62V578.724H0Z" transform="translate(-4.703 -4.287)" fill="url(#linear-gradient)"/>
+      <path id="Sans_titre-1" data-name="Sans titre-1" d="M0,0H1261.62V578.724H0Z" transform="translate(-4.703 -4.287)" fill="#4761ad"/>
     </g>
     <g id="Group_10760" data-name="Group 10760" transform="translate(6507 -494)">
       <g id="Group_10759" data-name="Group 10759">
@@ -42,7 +38,7 @@
     <g id="Group_10762" data-name="Group 10762" transform="translate(6475.297 -467)">
       <text id="Contact_US" data-name="Contact US" transform="translate(148.703 307)" fill="#fff" font-size="35" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Contact US</tspan></text>
       <text id="We_can_Take_any_Impossible_Project" data-name="We can Take any 
-Impossible Project" transform="translate(148.703 376)" fill="#fff" font-size="53" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">We can Take any </tspan><tspan fill="#1a1a1a"><tspan x="0" y="66">Impossible </tspan><tspan y="66" fill="#fff">Project</tspan></tspan></text>
+Impossible Project" transform="translate(148.703 376)" fill="#fff" font-size="53" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">We can Take any </tspan><tspan fill="#000001"><tspan x="0" y="66">Impossible </tspan><tspan y="66" fill="#fff">Project</tspan></tspan></text>
       <text id="with_our_amazing_team_we_provied_to_you_best_services_with_best_seo_and_practises_so_hary_up_" data-name="with our amazing team we provied to you best services with best seo and practises so hary up
 " transform="translate(148.703 464)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19">With Our Amazing Team We Provied To You </tspan><tspan x="0" y="49">Best Services With Best SEO And Practises So </tspan><tspan x="0" y="79">Hary Up</tspan><tspan x="0" y="109"></tspan></text>
     </g>
@@ -261,16 +257,16 @@ Impossible Project" transform="translate(148.703 376)" fill="#fff" font-size="53
                 <g id="Group_11571" data-name="Group 11571">
                   <g id="Group_11570" data-name="Group 11570">
                     <g id="Group_11568" data-name="Group 11568" transform="translate(0 17.14)">
-                      <path id="Path_1000" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                      <path id="Path_1000" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4761ad" stroke="#fff" stroke-width="1"/>
                     </g>
                     <g id="Group_11569" data-name="Group 11569" transform="translate(3.277)">
                       <circle id="Ellipse_24" data-name="Ellipse 24" cx="24.067" cy="24.067" r="24.067" transform="translate(5.89 5.89)" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.54" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
-                      <path id="Path_1003" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4762ae" stroke-width="1"/>
-                      <path id="Path_1002" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                      <path id="Path_1003" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4761ad" stroke-width="1"/>
+                      <path id="Path_1002" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4761ad" stroke="#fff" stroke-width="1"/>
                     </g>
                   </g>
                   <g id="SVGRepo_iconCarrier" transform="translate(16.92 -209.592)">
-                    <path id="Path_1008" data-name="Path 1008" d="M22.247,228.344v13.783L16.869,235.4l-1.022.818,5.431,6.789H.97L6.4,236.223,5.378,235.4,0,242.127V228.344l11.123,9.646Zm0-2.344v.61l-11.123,9.645L0,226.61V226H22.246Z" fill="#fff" stroke="#4762ae" stroke-width="1" fill-rule="evenodd"/>
+                    <path id="Path_1008" data-name="Path 1008" d="M22.247,228.344v13.783L16.869,235.4l-1.022.818,5.431,6.789H.97L6.4,236.223,5.378,235.4,0,242.127V228.344l11.123,9.646Zm0-2.344v.61l-11.123,9.645L0,226.61V226H22.246Z" fill="#fff" stroke="#4761ad" stroke-width="1" fill-rule="evenodd"/>
                   </g>
                   <text id="info_sdnone.net" data-name="info@sdnone.net" transform="translate(55.92 24.271)" fill="#f4f6fa" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="17">info@sdnone.net</tspan></text>
                 </g>
@@ -284,13 +280,13 @@ Impossible Project" transform="translate(148.703 376)" fill="#fff" font-size="53
                   <g id="Group_11571-2" data-name="Group 11571">
                     <g id="Group_11570-2" data-name="Group 11570">
                       <g id="Group_11568-2" data-name="Group 11568" transform="translate(0 17.14)">
-                        <path id="Path_1000-2" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
-                        <path id="Path_1001" data-name="Path 1001" d="M-125.7,257.036Z" transform="translate(165.709 -213.437)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                        <path id="Path_1000-2" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4761ad" stroke="#fff" stroke-width="1"/>
+                        <path id="Path_1001" data-name="Path 1001" d="M-125.7,257.036Z" transform="translate(165.709 -213.437)" fill="#4761ad" stroke="#fff" stroke-width="1"/>
                       </g>
                       <g id="Group_11569-2" data-name="Group 11569" transform="translate(3.277)">
                         <circle id="Ellipse_24-2" data-name="Ellipse 24" cx="24.067" cy="24.067" r="24.067" transform="translate(5.89 5.89)" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.54" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
-                        <path id="Path_1003-2" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4762ae" stroke-width="1"/>
-                        <path id="Path_1002-2" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                        <path id="Path_1003-2" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4761ad" stroke-width="1"/>
+                        <path id="Path_1002-2" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4761ad" stroke="#fff" stroke-width="1"/>
                       </g>
                     </g>
                     <g id="SVGRepo_iconCarrier-2" data-name="SVGRepo_iconCarrier" transform="translate(19.816 14.784)">
@@ -301,8 +297,8 @@ Impossible Project" transform="translate(148.703 376)" fill="#fff" font-size="53
                 <path id="Subtraction_2-2" data-name="Subtraction 2" d="M16.25,43.044A23.817,23.817,0,0,1,5.591,40.45,22.141,22.141,0,0,1,0,36.544l.619-.683a22.839,22.839,0,0,0,15.3,5.94C28.833,41.8,39.34,30.837,39.34,17.36A24.89,24.89,0,0,0,32.762.377L33.105,0a25.472,25.472,0,0,1,7.209,17.925,25.535,25.535,0,0,1-7.047,17.764A23.413,23.413,0,0,1,16.25,43.044Z" transform="translate(10.954 5.404)" fill="none" stroke="#fff" stroke-width="1"/>
                 <path id="Path_1007-2" data-name="Path 1007" d="M9655.225,4120.493l-7.113,5.519,5.871,7.117,8.719-8.542Z" transform="translate(-9610.225 -4117.803)" fill="#fff"/>
               </g>
-              <text id="_971_54_700_6935_963_99_555_4375" data-name="+971 54 700 6935
-+963 99 555 4375" transform="translate(423.781 508.304)" fill="#fff" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="11">+971 54 700 6935</tspan><tspan x="0" y="23">+963 99 555 4375</tspan></text>
+              <text id="_0097477280008_00963966338669" data-name="0097477280008+
+00963966338669" transform="translate(423.781 508.304)" fill="#fff" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="11">0097477280008+</tspan><tspan x="0" y="23">00963966338669</tspan></text>
             </g>
             <g id="Group_11582" data-name="Group 11582" transform="translate(-15)">
               <g id="Group_11574-3" data-name="Group 11574" transform="translate(945.08 484.493)">
@@ -310,12 +306,12 @@ Impossible Project" transform="translate(148.703 376)" fill="#fff" font-size="53
                   <g id="Group_11571-3" data-name="Group 11571">
                     <g id="Group_11570-3" data-name="Group 11570">
                       <g id="Group_11568-3" data-name="Group 11568" transform="translate(0 17.14)">
-                        <path id="Path_1000-3" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                        <path id="Path_1000-3" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4761ad" stroke="#fff" stroke-width="1"/>
                       </g>
                       <g id="Group_11569-3" data-name="Group 11569" transform="translate(3.277)">
                         <circle id="Ellipse_24-3" data-name="Ellipse 24" cx="24.067" cy="24.067" r="24.067" transform="translate(5.89 5.89)" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.54" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
-                        <path id="Path_1003-3" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4762ae" stroke-width="1"/>
-                        <path id="Path_1002-3" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                        <path id="Path_1003-3" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4761ad" stroke-width="1"/>
+                        <path id="Path_1002-3" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4761ad" stroke="#fff" stroke-width="1"/>
                       </g>
                     </g>
                     <g id="SVGRepo_iconCarrier-3" data-name="SVGRepo_iconCarrier" transform="translate(11.143 8.287)">
@@ -326,7 +322,7 @@ Impossible Project" transform="translate(148.703 376)" fill="#fff" font-size="53
                 <path id="Subtraction_2-3" data-name="Subtraction 2" d="M16.25,43.044A23.817,23.817,0,0,1,5.591,40.45,22.141,22.141,0,0,1,0,36.544l.619-.683a22.839,22.839,0,0,0,15.3,5.94C28.833,41.8,39.34,30.837,39.34,17.36A24.89,24.89,0,0,0,32.762.377L33.105,0a25.472,25.472,0,0,1,7.209,17.925,25.535,25.535,0,0,1-7.047,17.764A23.413,23.413,0,0,1,16.25,43.044Z" transform="translate(10.954 5.404)" fill="none" stroke="#fff" stroke-width="1"/>
                 <path id="Path_1007-3" data-name="Path 1007" d="M9655.225,4120.493l-7.113,5.519,5.871,7.117,8.719-8.542Z" transform="translate(-9610.225 -4117.803)" fill="#fff"/>
               </g>
-              <text id="Dubai-AL_Mamzar" data-name="Dubai-AL Mamzar" transform="translate(1001 510.763)" fill="#f4f6fa" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="16">Dubai-AL Mamzar</tspan></text>
+              <text id="Qatar_-_Lusail" data-name="Qatar - Lusail" transform="translate(1001 510.763)" fill="#f4f6fa" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="16">Qatar - Lusail</tspan></text>
             </g>
           </g>
           <g id="Group_11584" data-name="Group 11584">
@@ -336,12 +332,12 @@ Impossible Project" transform="translate(148.703 376)" fill="#fff" font-size="53
                   <g id="Group_11571-4" data-name="Group 11571">
                     <g id="Group_11570-4" data-name="Group 11570">
                       <g id="Group_11568-4" data-name="Group 11568" transform="translate(0 17.14)">
-                        <path id="Path_1000-4" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                        <path id="Path_1000-4" data-name="Path 1000" d="M36.9,232.834H-132.407c-6.5,0-13.808,5.266-16.328,11.764L-164.7,285.743h.258c3.192-5.32,9.463-9.31,15.118-9.31H-6.7a43.6,43.6,0,0,0,43.6-43.6Z" transform="translate(166.519 -232.834)" fill="#4761ad" stroke="#fff" stroke-width="1"/>
                       </g>
                       <g id="Group_11569-4" data-name="Group 11569" transform="translate(3.277)">
                         <circle id="Ellipse_24-4" data-name="Ellipse 24" cx="24.067" cy="24.067" r="24.067" transform="translate(5.89 5.89)" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.54" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
-                        <path id="Path_1003-4" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4762ae" stroke-width="1"/>
-                        <path id="Path_1002-4" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4762ae" stroke="#fff" stroke-width="1"/>
+                        <path id="Path_1003-4" data-name="Path 1003" d="M24.067,0A24.067,24.067,0,1,1,0,24.067,24.067,24.067,0,0,1,24.067,0Z" fill="#fff" stroke="#4761ad" stroke-width="1"/>
+                        <path id="Path_1002-4" data-name="Path 1002" d="M-143.29,260.193a16.292,16.292,0,0,1-16.273-16.273,16.292,16.292,0,0,1,16.273-16.274,16.292,16.292,0,0,1,16.273,16.274A16.292,16.292,0,0,1-143.29,260.193Z" transform="translate(167.357 -219.852)" fill="#4761ad" stroke="#fff" stroke-width="1"/>
                       </g>
                     </g>
                     <g id="SVGRepo_iconCarrier-4" data-name="SVGRepo_iconCarrier" transform="translate(11.143 8.287)">
@@ -363,13 +359,7 @@ Impossible Project" transform="translate(148.703 376)" fill="#fff" font-size="53
       <g id="Group_11629" data-name="Group 11629" transform="translate(-891 -385)">
         <use id="Sdn_logo" data-name="Sdn logo" transform="translate(1173 45) scale(3.556 3.559)" xlink:href="#image"/>
         <g id="Group_10829" data-name="Group 10829" transform="translate(-1520 -5246)">
-          <g id="Group_10827" data-name="Group 10827">
-            <rect id="Rectangle_61" data-name="Rectangle 61" width="56" height="19" rx="9.5" transform="translate(2615 5300)" fill="#4664af"/>
-            <rect id="Rectangle_63" data-name="Rectangle 63" width="21" height="13" rx="6.5" transform="translate(2621 5303)" fill="#fefefe"/>
-            <text id="EN" transform="translate(2649 5303)" fill="#fff" font-size="8" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="9">EN</tspan></text>
-            <text id="ar" transform="translate(2626 5303)" fill="#4367b5" font-size="8" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="9">AR</tspan></text>
-          </g>
-          <g id="Group_10828" data-name="Group 10828">
+          <g id="Group_10828" data-name="Group 10828" transform="translate(70)">
             <rect id="Rectangle_62" data-name="Rectangle 62" width="34" height="19" rx="9.5" transform="translate(2558 5300)" fill="#4664af"/>
             <path id="ic_brightness_2_24px" d="M12.09,2a7.232,7.232,0,0,1,3.545.929,6.775,6.775,0,0,0,0,11.911,7.232,7.232,0,0,1-3.545.929A6.992,6.992,0,0,1,5,8.885,6.992,6.992,0,0,1,12.09,2Z" transform="matrix(0.899, -0.438, 0.438, 0.899, 2554.035, 5307.018)" fill="#fff000"/>
           </g>

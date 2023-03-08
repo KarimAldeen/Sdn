@@ -14,13 +14,6 @@ const Home_LeftSec = () => {
           </h6>
 
         </div>
-
-        
-        <div className='LeftSec_Down'>
-          <button>Contact</button>
-          <button className='BtnOut'> Services </button>
-
-        </div>
       </div>
   )
 }

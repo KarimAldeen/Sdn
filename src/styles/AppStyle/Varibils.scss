@@ -1,5 +1,5 @@
 :root {
-    --primary: hsl(223deg 43% 48%);
+    --primary: #4761ad;
     --secondary: #597e5b;
     --text: #332d2d;
     --bg: white;
@@ -12,6 +12,6 @@
 
 :root:has(.dark) {
     --primary: #243056;
-    --black: hsl(223deg 43% 48%);
+    --black:#4761ad;
 
 }

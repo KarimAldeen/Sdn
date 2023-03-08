@@ -9,11 +9,9 @@ const Services_LeftSec = () => {
         </div>
         <div className='LeftSec_Mid'>
           <h6>
-          We   were born out of  the growing absolute
-           importance of IT services and digital 
-            marketing to the business community which has 
-          transcended into a brand of service
-          excellence as well as customer satisfaction.
+          we were born out of the growing absolute importance of it 
+          services and digital marketing to the business community
+
           </h6>
 
         </div>

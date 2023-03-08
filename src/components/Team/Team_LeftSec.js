@@ -9,8 +9,7 @@ const Team_LeftSec = () => {
         </div>
         <div className='LeftSec_Mid'>
           <h6>
-          best choice for spreading widely for your business and industry by 
-          using powerful and intelligence software tools to build your application
+          Power your business and industry with powerful and smart software tools
           </h6>
 
         </div>
