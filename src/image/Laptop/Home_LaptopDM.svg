@@ -13,13 +13,13 @@
       </g>
       <g id="Group_10787" data-name="Group 10787" transform="translate(-1074.798 -448)">
         <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(215.798 70)" clip-path="url(#clip-path)">
-          <path id="Sans_titre-1" data-name="Sans titre-1" d="M0,0H1261.62V617.022H0Z" transform="translate(-4.703 -4.571)" fill="#243056"/>
+          <path id="Sans_titre-1" data-name="Sans titre-1" d="M0,0H1261.62V617.022H0Z" transform="translate(-4.703 -4.571)" fill="#4761ad"/>
         </g>
         <g id="Group_10762" data-name="Group 10762" transform="translate(344.232 203.896)">
           <text id="SDN_Company" data-name="SDN Company" transform="translate(16.564 24.217)" fill="#fff" font-size="33" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">SDN Company</tspan></text>
           <text id="Take_your_team_to_the_next_level_" data-name="Take your team  
 to the next level
-" transform="translate(16.564 87.217)" fill="#fff" font-size="56" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Take your team  </tspan><tspan font-size="38"><tspan x="0" y="63">to </tspan><tspan y="63" font-size="56">the next </tspan><tspan y="63" fill="#486fb6" font-size="56">Level</tspan></tspan><tspan fill="#486fb6" font-family="Poppins-Bold, Poppins"><tspan x="0" y="126"></tspan></tspan></text>
+" transform="translate(16.564 87.217)" fill="#fff" font-size="56" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Take your team  </tspan><tspan font-size="38"><tspan x="0" y="63">to </tspan><tspan y="63" font-size="56">the next </tspan><tspan y="63" fill="#010101" font-size="56">Level</tspan></tspan><tspan fill="#010101" font-family="Poppins-Bold, Poppins"><tspan x="0" y="126"></tspan></tspan></text>
           <text id="work_with_us_and_we_ll_make_your_business_stand_out_from_the_rest." data-name="work with us and we&apos;ll make your business stand out from the rest." transform="translate(16.564 171.717)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="27">work with us and we&apos;ll make your business </tspan><tspan x="0" y="60">stand out from the rest.</tspan></text>
         </g>
         <g id="Group_10785" data-name="Group 10785" transform="translate(282.751 203.67)">
@@ -53,25 +53,51 @@ to the next level
           </g>
         </g>
       </g>
-      <g id="Group_11631" data-name="Group 11631" transform="translate(-2976 -6778)">
-        <g id="Group_11594" data-name="Group 11594" transform="translate(-242 -73)">
-          <text id="Page_of_Code" data-name="Page of Code" transform="translate(2505 7066)" fill="#3b3a3a" font-size="23" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Page of Code</tspan></text>
-          <text id="_1755_" data-name="1755+" transform="translate(2580 7036)" fill="#243056" font-size="25" font-family="Montserrat" font-weight="800"><tspan x="-36.263" y="0">1755+</tspan></text>
+      <text id="HomePage" transform="translate(-644 227)" fill="#4761ad" font-size="150" font-family="Montserrat" font-weight="700"><tspan x="0" y="145">HomePage</tspan></text>
+      <g id="Home" transform="translate(19264 2180)">
+        <g id="Group_11870" data-name="Group 11870" transform="translate(-49 -293.185)">
+          <g id="Group_11594" data-name="Group 11594" transform="translate(-22400 -8743)">
+            <text id="Elite_Effort" data-name="Elite Effort" transform="translate(2505 7066)" fill="#4761ad" font-size="23" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Elite Effort</tspan></text>
+          </g>
+          <g id="SVGRepo_iconCarrier" transform="translate(-19866.303 -1744.671)">
+            <g id="Group_11868" data-name="Group 11868" transform="translate(22.303 7.214)">
+              <rect id="Rectangle_102" data-name="Rectangle 102" width="12.72" height="2.762" transform="translate(6.862 26.695)"/>
+              <path id="Path_1084" data-name="Path 1084" d="M43.447.948V0H27.38V.948H22.3V5.579A6.141,6.141,0,0,0,23.965,9.87a7.215,7.215,0,0,0,4.526,2.044c1.834,2.87,5.3,4.449,5.3,5.778,0,1.808-1.808,4.88-1.808,4.88V24.56h6.869V22.571s-1.808-3.073-1.808-4.88c0-1.32,3.413-2.886,5.257-5.719a7.56,7.56,0,0,0,5.234-2.1,6.141,6.141,0,0,0,1.662-4.291V.948ZM24.423,5.579V3.068H27.38V8.257a6.382,6.382,0,0,0,.1,1.11c.009.067.015.133.026.2A3.96,3.96,0,0,1,24.423,5.579Zm7.543,2.842-.005,2.4a5.065,5.065,0,0,1-2.572-3.243V2.232h2.577ZM47.074,5.579a3.91,3.91,0,0,1-2.181,3.636,5.9,5.9,0,0,1-1.614.511,6.414,6.414,0,0,0,.169-1.469V3.068h3.626V5.579Z" transform="translate(-22.303 0)"/>
+            </g>
+          </g>
         </g>
-        <g id="Group_11595" data-name="Group 11595" transform="translate(27 -73)">
-          <text id="Rating_Clients" data-name="Rating Clients" transform="translate(2505 7066)" fill="#3b3a3a" font-size="23" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Rating Clients</tspan></text>
-          <text id="_4.8" data-name="4.8" transform="translate(2590 7036)" fill="#243056" font-size="25" font-family="Montserrat" font-weight="800"><tspan x="-21.55" y="0">4.8</tspan></text>
+        <g id="Group_11871" data-name="Group 11871" transform="translate(-135 -294.041)">
+          <g id="Group_11595" data-name="Group 11595" transform="translate(-22131 -8743)">
+            <text id="Prime_Productivity" data-name="Prime Productivity" transform="translate(2505 7066)" fill="#4761ad" font-size="23" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Prime Productivity</tspan></text>
+          </g>
+          <g id="SVGRepo_iconCarrier-2" data-name="SVGRepo_iconCarrier" transform="translate(-19591.547 -1745.549)">
+            <g id="Group_11869" data-name="Group 11869" transform="translate(64.547 0)">
+              <path id="Path_1085" data-name="Path 1085" d="M241.551,221.891l-6.441,5.548a1.747,1.747,0,1,0,1.439,1.439l5.548-6.441a.386.386,0,1,0-.545-.546Z" transform="translate(-220.429 -205.131)"/>
+              <path id="Path_1086" data-name="Path 1086" d="M92.155,137.87a14.429,14.429,0,1,0,1.13,5.594A14.415,14.415,0,0,0,92.155,137.87ZM87.138,150.7l-1.521-1.521-.989.989,1.521,1.521a10.866,10.866,0,0,1-6.534,2.707v-2.151h-1.4v2.152a10.882,10.882,0,0,1-6.535-2.707l1.522-1.521-.989-.989L70.695,150.7a11,11,0,0,1-.861-1.111,10.86,10.86,0,0,1-1.846-5.423h2.151v-1.4H67.988a10.879,10.879,0,0,1,2.707-6.534l1.521,1.521.989-.989-1.521-1.521a10.866,10.866,0,0,1,6.534-2.707v2.151h1.4v-2.152a10.888,10.888,0,0,1,3.564.837A11,11,0,0,1,88,137.342a10.862,10.862,0,0,1,1.846,5.423H87.693v1.4h2.152a10.877,10.877,0,0,1-2.707,6.534Z" transform="translate(-64.547 -119.406)"/>
+              <path id="Path_1087" data-name="Path 1087" d="M85.11,119.362l-2.249-2.681-2.141,1.8,2.249,2.68Z" transform="translate(-79.505 -107.924)"/>
+              <path id="Path_1088" data-name="Path 1088" d="M377.169,118.479l-2.142-1.8-2.249,2.681,2.142,1.8Z" transform="translate(-349.644 -107.924)"/>
+              <path id="Path_1089" data-name="Path 1089" d="M204.327,7.485V8.757h4.117V7.485a4.028,4.028,0,1,0-4.117,0Zm0-3.44V6.23l-.074-.071a3.016,3.016,0,1,1,4.266,0l-.074.071V4.045Z" transform="translate(-192.016 0)"/>
+            </g>
+          </g>
         </g>
-        <g id="Group_11596" data-name="Group 11596" transform="translate(296 -73)">
-          <text id="Hours_of_work" data-name="Hours of work" transform="translate(2505 7066)" fill="#3b3a3a" font-size="23" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Hours of work</tspan></text>
-          <text id="_5000_" data-name="5000+" transform="translate(2590 7036)" fill="#243056" font-size="25" font-family="Montserrat" font-weight="800"><tspan x="-41.438" y="0">5000+</tspan></text>
+        <g id="Group_11872" data-name="Group 11872" transform="translate(-143 -292.041)">
+          <g id="Group_11597" data-name="Group 11597" transform="translate(-21593 -8743)">
+            <text id="Superior_Solutions" data-name="Superior Solutions" transform="translate(2501 7064)" fill="#4761ad" font-size="23" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Superior Solutions</tspan></text>
+          </g>
+          <g id="SVGRepo_iconCarrier-3" data-name="SVGRepo_iconCarrier" transform="translate(-18997.5 -1740.599)">
+            <path id="Path_1090" data-name="Path 1090" d="M21.026,24.62a11.8,11.8,0,1,0-9.443,0v2.562h9.443Zm-1.416-6.881c-.054,0-.1.008-.157.008a1.574,1.574,0,0,1-1.112-.461L16.3,15.243l-2.035,2.035a1.574,1.574,0,0,1-2.422-.239L8.7,12.318a1.574,1.574,0,1,1,2.619-1.747L13.4,13.7l1.791-1.791a1.574,1.574,0,0,1,2.225,0L19.208,13.7l2.082-3.126a1.574,1.574,0,0,1,2.619,1.747l-3.148,4.721A1.574,1.574,0,0,1,19.609,17.739ZM11.583,30.33h9.443V31.9a1.574,1.574,0,0,1-1.574,1.574h-6.3A1.574,1.574,0,0,1,11.583,31.9Z" transform="translate(0)"/>
+          </g>
         </g>
-        <g id="Group_11597" data-name="Group 11597" transform="translate(565 -73)">
-          <text id="Project_Finched" data-name="Project Finched" transform="translate(2505 7066)" fill="#3b3a3a" font-size="23" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Project Finched</tspan></text>
-          <text id="_95_" data-name="95+" transform="translate(2601 7036)" fill="#243056" font-size="25" font-family="Montserrat" font-weight="800"><tspan x="-23.75" y="0">95+</tspan></text>
+        <g id="Group_11873" data-name="Group 11873" transform="translate(-139 -292.041)">
+          <g id="Group_11596" data-name="Group 11596" transform="translate(-21862 -8743)">
+            <text id="Optimal_Output" data-name="Optimal Output" transform="translate(2521 7064)" fill="#4761ad" font-size="23" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Optimal Output</tspan></text>
+          </g>
+          <g id="SVGRepo_iconCarrier-4" data-name="SVGRepo_iconCarrier" transform="translate(-19264 -1746.571)">
+            <path id="Path_1091" data-name="Path 1091" d="M4,5V31.667a1.9,1.9,0,0,0,1.9,1.9H32.571" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            <path id="Path_1092" data-name="Path 1092" d="M27.952,9l-9.524,9.524-4.762-4.762L7,20.428" transform="translate(2.714 3.619)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
         </g>
       </g>
-      <text id="HomePage" transform="translate(-644 227)" fill="#243056" font-size="150" font-family="Montserrat" font-weight="700"><tspan x="0" y="145">HomePage</tspan></text>
     </g>
   </g>
 </svg>
