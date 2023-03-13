@@ -51,7 +51,7 @@ const Mood = ({ isdark , Name}) => {
       let Laptop3 = document.getElementById("Laptop3");let Laptop4 = document.getElementById("Laptop4");
       let Body = document.body;let Bg = document.getElementById("BG")
 if(isdark === true){
-    console.log("1");
+    // console.log("1");
 
   if (Windows <= .5) {console.log(".5","Mobile")
   Bg.src = BGMD ; Body.classList= 'Tap BigTap BigMobile Mobile dark'
