@@ -70,7 +70,8 @@ if(isdark === true){
            MidImg.src = ContactssDM
        }
 }
-  else if (Windows <= .7) {console.log(".7","BigMobile")
+  else if (Windows <= .7) {
+    // console.log(".7","BigMobile")
        Bg.src = BGMD ; Body.classList= 'Tap BigTap BigMobile dark'
        Laptop1.src = H_MD; Laptop2.src = S_MD; Laptop3.src = T_MD; Laptop4.src = C_MD;
        if(Name === "Services"){
